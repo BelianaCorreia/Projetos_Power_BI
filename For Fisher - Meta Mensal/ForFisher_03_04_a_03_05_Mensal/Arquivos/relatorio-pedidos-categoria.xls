@@ -1,0 +1,65 @@
+
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Categoria</th>
+                                    <th>Total de Pedidos</th>
+                                    <th>Total de Produtos</th>
+                                    <th>Total em Produtos</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <!-- ngRepeat: item in listagem.CATEGORIAS --><tr ng-repeat="item in listagem.CATEGORIAS" class="ng-scope" style="">
+                                    <td class="ng-binding">Camisetas</td>
+                                    <td class="ng-binding">119</td>
+                                    <td class="ng-binding">211</td>
+                                    <td class="ng-binding">R$ 17.066,90</td>
+                                </tr><!-- end ngRepeat: item in listagem.CATEGORIAS --><tr ng-repeat="item in listagem.CATEGORIAS" class="ng-scope">
+                                    <td class="ng-binding">Pulseiras</td>
+                                    <td class="ng-binding">19</td>
+                                    <td class="ng-binding">32</td>
+                                    <td class="ng-binding">R$ 1.216,80</td>
+                                </tr><!-- end ngRepeat: item in listagem.CATEGORIAS --><tr ng-repeat="item in listagem.CATEGORIAS" class="ng-scope">
+                                    <td class="ng-binding">Sandálias</td>
+                                    <td class="ng-binding">8</td>
+                                    <td class="ng-binding">9</td>
+                                    <td class="ng-binding">R$ 719,10</td>
+                                </tr><!-- end ngRepeat: item in listagem.CATEGORIAS --><tr ng-repeat="item in listagem.CATEGORIAS" class="ng-scope">
+                                    <td class="ng-binding">Colares</td>
+                                    <td class="ng-binding">4</td>
+                                    <td class="ng-binding">7</td>
+                                    <td class="ng-binding">R$ 329,30</td>
+                                </tr><!-- end ngRepeat: item in listagem.CATEGORIAS --><tr ng-repeat="item in listagem.CATEGORIAS" class="ng-scope">
+                                    <td class="ng-binding">Quadros</td>
+                                    <td class="ng-binding">1</td>
+                                    <td class="ng-binding">1</td>
+                                    <td class="ng-binding">R$ 69,90</td>
+                                </tr><!-- end ngRepeat: item in listagem.CATEGORIAS --><tr ng-repeat="item in listagem.CATEGORIAS" class="ng-scope">
+                                    <td class="ng-binding">Bonés</td>
+                                    <td class="ng-binding">79</td>
+                                    <td class="ng-binding">102</td>
+                                    <td class="ng-binding">R$ 7.129,80</td>
+                                </tr><!-- end ngRepeat: item in listagem.CATEGORIAS --><tr ng-repeat="item in listagem.CATEGORIAS" class="ng-scope">
+                                    <td class="ng-binding">Utilitários</td>
+                                    <td class="ng-binding">34</td>
+                                    <td class="ng-binding">51</td>
+                                    <td class="ng-binding">R$ 1.589,90</td>
+                                </tr><!-- end ngRepeat: item in listagem.CATEGORIAS --><tr ng-repeat="item in listagem.CATEGORIAS" class="ng-scope">
+                                    <td class="ng-binding">Acessórios</td>
+                                    <td class="ng-binding">10</td>
+                                    <td class="ng-binding">13</td>
+                                    <td class="ng-binding">R$ 518,70</td>
+                                </tr><!-- end ngRepeat: item in listagem.CATEGORIAS --><tr ng-repeat="item in listagem.CATEGORIAS" class="ng-scope">
+                                    <td class="ng-binding">Fish TV</td>
+                                    <td class="ng-binding">16</td>
+                                    <td class="ng-binding">18</td>
+                                    <td class="ng-binding">R$ 1.798,20</td>
+                                </tr><!-- end ngRepeat: item in listagem.CATEGORIAS --><tr ng-repeat="item in listagem.CATEGORIAS" class="ng-scope">
+                                    <td class="ng-binding">Lançamentos</td>
+                                    <td class="ng-binding">8</td>
+                                    <td class="ng-binding">11</td>
+                                    <td class="ng-binding">R$ 878,90</td>
+                                </tr><!-- end ngRepeat: item in listagem.CATEGORIAS -->
+                            </tbody>
+                        </table>
+                    

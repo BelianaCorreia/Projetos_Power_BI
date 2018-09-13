@@ -1,0 +1,5 @@
+Status da campanha;Campanha;Nome do orçamento;Orçamento;Tipo de orçamento;Status;Tipo de estratégia de lances;Tipo de campanha;Impr.;Interações;Taxa de interação;Custo médio;Custo
+Pausado;Camp_Dia_dos_Pais; --;R$ 20,00;Diário;Pausado;CPA desejado;Pesquisa;109;56;51,38%;R$ 0,04;R$ 2,40
+Pausado;camp_remarketing_site; --;R$ 20,00;Diário;Pausado;CPC (otimizado);Compras;3.123;72;2,31%;R$ 0,45;R$ 32,52
+Ativada;camp_shopping_recorrente; --;R$ 20,00;Diário;Qualificado;Maximizar cliques;Compras;164.512;1.235;0,75%;R$ 0,49;R$ 609,87
+Ativada;Camp_For_Fisher_Recorrente; --;R$ 20,00;Diário;Qualificado;CPA desejado;Display;121.272;1.870;1,54%;R$ 0,18;R$ 342,86

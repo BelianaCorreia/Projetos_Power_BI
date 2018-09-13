@@ -1,0 +1,397 @@
+ID;ID_COMBINACAO;REFERENCIA;TITULO;ATRIBUTO;ESTOQUE;RESERVA;ESTOQUE_TOTAL;ATIVO
+3;5;10050;Sandália Dourado;Único / 41/42;0;1;1;1
+3;6;10050;Sandália Dourado;43/44 / Único;17;0;17;1
+3;7;10050;Sandália Dourado;39/40 / Único;20;0;20;1
+4;8;10051;Sandália Marlin;Único / 41/42;0;0;0;0
+4;9;10051;Sandália Marlin;43/44 / Único;0;0;0;0
+4;10;10051;Sandália Marlin;39/40 / Único;0;1;1;0
+5;11;10052;Sandália Robalo;Único / 41/42;29;0;29;1
+5;12;10052;Sandália Robalo;43/44 / Único;16;0;16;1
+5;13;10052;Sandália Robalo;Único / 39/40;13;0;13;1
+6;14;10053;Sandália Tambaqui;Único / 41/42;11;0;11;1
+6;15;10053;Sandália Tambaqui;43/44 / Único;16;0;16;1
+6;16;10053;Sandália Tambaqui;Único / 39/40;19;0;19;1
+7;17;10054;Sandália Traíra;Único / 41/42;13;0;13;1
+7;18;10054;Sandália Traíra;43/44 / Único;15;0;15;1
+7;19;10054;Sandália Traíra;39/40 / Único;13;0;13;1
+8;20;10055;Sandália Tucunaré;Único / 41/42;0;0;0;1
+8;21;10055;Sandália Tucunaré;43/44 / Único;0;0;0;1
+8;22;10055;Sandália Tucunaré;Único / 39/40;0;1;1;1
+9;23;10017;Colar Dourado;Único / Único;8;0;8;1
+10;24;10018;Colar Hei Matau;Único / Único;2;0;2;1
+11;25;10019;Colar Marlin;Único / Único;22;0;22;1
+12;26;10020;Colar Robalo;Único / Único;13;0;13;1
+13;27;10021;Colar Tambaqui;Único / Único;7;0;7;1
+14;28;10022;Colar Traíra;Único / Único;6;0;6;1
+15;29;10023;Colar Tucunaré;Único / Único;14;0;14;1
+16;30;10024;Quadro Dourado (38x30cm);Único / Único;4;0;4;1
+17;31;10025;Quadro Marlin (38x30cm);Único / Único;25;0;25;1
+18;32;10026;Quadro Robalo (38x30cm);Único / Único;18;0;18;1
+19;33;10027;Quadro Tambaqui (38x30cm);Único / Único;16;0;16;1
+20;34;10028;Quadro Traíra (38x30cm);Único / Único;15;0;15;1
+21;35;10029;Quadro Tucunaré (38x30);Único / Único;1;0;1;1
+22;36;10030;Pulseira Dourado Pingente;Único / Único;17;1;18;1
+23;37;10031;Pulseira Marlin Pingente;Único / Único;14;0;14;1
+24;38;10032;Pulseira Robalo Pingente;Único / Único;4;5;9;1
+25;39;10033;Pulseira Tambaqui Pingente;Único / Único;17;0;17;1
+26;40;10034;Pulseira Traíra Pingente;Único / Único;23;0;23;1
+27;41;10035;Pulseira Tucunaré Pingente;Único / Único;0;1;1;1
+28;42;10056;Pulseira Dourado Emborrachada;Único / Único;0;4;4;1
+29;43;10057;Pulseira Marlin Emborrachada;Único / Único;16;0;16;1
+30;44;10058;Pulseira Robalo Emborrachada;Único / Único;20;0;20;1
+31;45;10059;Pulseira Tambaqui Emborrachada;Único / Único;9;0;9;1
+32;46;10060;Pulseira Traíra Emborrachada;Único / Único;20;0;20;1
+33;47;10061;Pulseira Tucunaré Emborrachada;Único / Único;6;1;7;1
+34;48;10036;Pulseira Dourado em Recorte;Único / Único;8;0;8;1
+35;49;10037;Pulseira Marlin em Recorte;Único / Único;24;0;24;1
+36;50;10038;Pulseira Robalo em Recorte;Único / Único;25;0;25;1
+37;51;10039;Pulseira Tambaqui em Recorte;Único / Único;20;0;20;1
+38;52;10040;Pulseira Traíra em Recorte;Único / Único;21;0;21;1
+39;53;10041;Pulseira Tucunaré em Recorte;Único / Único;12;0;12;1
+47;79;10152;Kit Tucunaré;Único / 39/40;12;0;12;0
+47;80;10152;Kit Tucunaré;Único / 41/42;12;0;12;0
+47;81;10152;Kit Tucunaré;43/44 / Único;15;0;15;0
+42;58;10131;Camiseta Baby Look #pescologoexisto;Único / P;0;0;0;0
+42;59;10131;Camiseta Baby Look #pescologoexisto;Único / M;0;0;0;0
+42;60;10131;Camiseta Baby Look #pescologoexisto;G / Único;2;0;2;0
+43;61;10132;Camiseta Baby Look Tribalnaré For Fisher;Único / P;9;0;9;0
+43;62;10132;Camiseta Baby Look Tribalnaré For Fisher;M / Único;0;0;0;0
+43;63;10132;Camiseta Baby Look Tribalnaré For Fisher;G / Único;6;0;6;0
+44;64;10130;Camiseta #pescologoexisto;P / Único;4;0;4;1
+44;65;10130;Camiseta #pescologoexisto;M / Único;0;0;0;1
+44;66;10130;Camiseta #pescologoexisto;Único / G;0;0;0;1
+44;77;10130;Camiseta #pescologoexisto;GG / Único;0;0;0;1
+44;78;10130;Camiseta #pescologoexisto;XG / Único;0;0;0;1
+45;67;10128;Camiseta Técnicas For Fisher;Único / P;27;0;27;1
+45;68;10128;Camiseta Técnicas For Fisher;M / Único;0;0;0;1
+45;69;10128;Camiseta Técnicas For Fisher;G / Único;0;1;1;1
+45;75;10128;Camiseta Técnicas For Fisher;GG / Único;11;0;11;1
+45;76;10128;Camiseta Técnicas For Fisher;Único / XG;3;0;3;1
+46;70;10129;Camiseta Tribalnaré For Fisher;Único / P;0;1;1;1
+46;71;10129;Camiseta Tribalnaré For Fisher;M / Único;0;0;0;1
+46;72;10129;Camiseta Tribalnaré For Fisher;G / Único;0;0;0;1
+46;73;10129;Camiseta Tribalnaré For Fisher;Único / GG;0;0;0;1
+46;74;10129;Camiseta Tribalnaré For Fisher;Único / XG;4;0;4;1
+48;82;10153;Kit Traíra;39/40 / Único;15;0;15;0
+48;83;10153;Kit Traíra;41/42 / Único;16;0;16;0
+48;84;10153;Kit Traíra;Único / 43/44;15;0;15;0
+49;85;10154;Kit Tambaqui;Único / 39/40;15;0;15;0
+49;86;10154;Kit Tambaqui;41/42 / Único;14;0;14;0
+49;87;10154;Kit Tambaqui;Único / 43/44;15;0;15;0
+50;88;10155;Kit Dourado;Único / 39/40;14;0;14;0
+50;89;10155;Kit Dourado;Único / 41/42;14;0;14;0
+50;90;10155;Kit Dourado;43/44 / Único;16;0;16;0
+51;91;10156;Kit Marlin;Único / 39/40;17;0;17;0
+51;92;10156;Kit Marlin;41/42 / Único;17;0;17;0
+51;93;10156;Kit Marlin;Único / 43/44;17;0;17;0
+52;94;10157;Kit Robalo;39/40 / Único;18;0;18;0
+52;95;10157;Kit Robalo;41/42 / Único;18;0;18;0
+52;96;10157;Kit Robalo;Único / 43/44;18;0;18;0
+54;98;10161;Boné For Fisher;Único / Único;36;5;41;1
+55;103;10151;Cinto Dourado;97 / Único;19;0;19;1
+55;104;10151;Cinto Dourado;Único / 110;23;0;23;1
+56;105;10148;Cinto Tucunaré;97 / Único;3;0;3;1
+56;106;10148;Cinto Tucunaré;110 / Único;2;0;2;1
+57;107;10185;Pulseira Macramê Dourado Preta;Único / Único;0;0;0;1
+58;108;10186;Pulseira Macrame Robalo Preta;Único / Único;0;0;0;1
+59;109;10187;Pulseira Macrame Traíra Preta;Único / Único;0;0;0;1
+60;110;10188;Pulseira Macramê Tucunaré Preta;Único / Único;0;0;0;1
+61;111;10189;Pulseira Macramê Dourado Café;Único / Único;12;0;12;1
+62;112;10190;Pulseira Macramê Robalo Café;Único / Único;8;0;8;1
+63;113;10191;Pulseira Macramê Traíra Café;Único / Único;27;1;28;1
+64;114;10192;Pulseira Macramê Tucunaré Café;Único / Único;0;0;0;1
+65;115;10193;Pulseira Macramê Dourado Preta e Marrom;Único / Único;0;0;0;0
+66;116;10194;Pulseira Macramê Robalo Preta e Marrom;Único / Único;12;0;12;1
+67;117;10195;Pulseira Macramê Traíra Preta e Marrom;Único / Único;11;0;11;1
+68;118;10196;Pulseira Macramê Tucunaré Preta e Marrom;Único / Único;0;0;0;1
+69;119;10236;Caneca For Fisher;Único / Único;0;1;1;1
+70;120;10220;Sandália Traíra Tribal;39/40 / Único;20;0;20;1
+70;121;10220;Sandália Traíra Tribal;Único / 41/42;25;0;25;1
+70;122;10220;Sandália Traíra Tribal;Único / 43/44;23;0;23;1
+70;123;10220;Sandália Traíra Tribal;37/38 / Único;23;0;23;1
+71;124;10221;Sandália Dourado Tribal;Único / 39/40;26;0;26;1
+71;125;10221;Sandália Dourado Tribal;Único / 41/42;18;0;18;1
+71;126;10221;Sandália Dourado Tribal;Único / 43/44;21;1;22;1
+71;127;10221;Sandália Dourado Tribal;Único / 37/38;23;0;23;1
+72;128;10222;Sandália Tucunaré Tribal;Único / 39/40;27;0;27;1
+72;129;10222;Sandália Tucunaré Tribal;41/42 / Único;5;0;5;1
+72;130;10222;Sandália Tucunaré Tribal;Único / 43/44;21;0;21;1
+72;131;10222;Sandália Tucunaré Tribal;37/38 / Único;19;0;19;1
+73;132;10223;Sandália Robalo Tribal;39/40 / Único;27;0;27;1
+73;133;10223;Sandália Robalo Tribal;Único / 41/42;29;0;29;1
+73;134;10223;Sandália Robalo Tribal;43/44 / Único;16;0;16;1
+73;135;10223;Sandália Robalo Tribal;37/38 / Único;23;0;23;1
+74;136;10224;Sandália For Fisher;Único / 39/40;15;0;15;1
+74;137;10224;Sandália For Fisher;41/42 / Único;0;0;0;1
+74;138;10224;Sandália For Fisher;Único / 43/44;5;0;5;1
+74;139;10224;Sandália For Fisher;Único / 37/38;24;0;24;1
+75;140;10229;Camiseta Robalo Tribal;P / Único;11;0;11;1
+75;141;10229;Camiseta Robalo Tribal;Único / M;26;0;26;1
+75;142;10229;Camiseta Robalo Tribal;Único / G;16;0;16;1
+75;143;10229;Camiseta Robalo Tribal;GG / Único;16;0;16;1
+75;144;10229;Camiseta Robalo Tribal;Único / XG;13;0;13;1
+76;145;10230;Camiseta Tucunaré Tribal;Único / P;11;0;11;1
+76;146;10230;Camiseta Tucunaré Tribal;M / Único;5;0;5;1
+76;147;10230;Camiseta Tucunaré Tribal;G / Único;0;1;1;1
+76;148;10230;Camiseta Tucunaré Tribal;GG / Único;4;0;4;1
+76;149;10230;Camiseta Tucunaré Tribal;XG / Único;8;0;8;1
+77;150;10231;Camiseta Traíra Tribal;Único / P;15;0;15;1
+77;151;10231;Camiseta Traíra Tribal;Único / M;13;0;13;1
+77;152;10231;Camiseta Traíra Tribal;G / Único;7;0;7;1
+77;153;10231;Camiseta Traíra Tribal;Único / GG;23;0;23;1
+77;154;10231;Camiseta Traíra Tribal;Único / XG;19;0;19;1
+78;155;10232;Camiseta Dourado Tribal;P / Único;16;0;16;1
+78;156;10232;Camiseta Dourado Tribal;Único / M;11;0;11;1
+78;157;10232;Camiseta Dourado Tribal;Único / G;0;0;0;1
+78;158;10232;Camiseta Dourado Tribal;GG / Único;3;0;3;1
+78;159;10232;Camiseta Dourado Tribal;Único / XG;4;0;4;1
+79;160;10337;Boné Momento da Pesca;Único / Único;26;3;29;1
+80;161;10338;Boné Fish TV;Único / Único;29;1;30;1
+83;164;10341;Boné Dourado Tribal;Único / Único;72;2;74;1
+85;166;10343;Boné Tucunaré Tribal;Único / Único;27;3;30;1
+86;167;10244;"Camiseta ""Pesco, Logo Existo""";Único / P;12;0;12;1
+86;168;10244;"Camiseta ""Pesco, Logo Existo""";Único / M;0;1;1;1
+86;169;10244;"Camiseta ""Pesco, Logo Existo""";G / Único;2;0;2;1
+86;170;10244;"Camiseta ""Pesco, Logo Existo""";Único / GG;0;0;0;1
+86;171;10244;"Camiseta ""Pesco, Logo Existo""";Único / XG;6;0;6;1
+87;172;10243;Camiseta Manifesto For Fisher;P / Único;20;0;20;1
+87;173;10243;Camiseta Manifesto For Fisher;M / Único;32;0;32;1
+87;174;10243;Camiseta Manifesto For Fisher;G / Único;22;0;22;1
+87;175;10243;Camiseta Manifesto For Fisher;GG / Único;17;0;17;1
+87;176;10243;Camiseta Manifesto For Fisher;XG / Único;25;0;25;1
+88;177;10245;Camiseta Print Pesco Logo Existo;P / Único;20;0;20;1
+88;178;10245;Camiseta Print Pesco Logo Existo;Único / M;16;0;16;1
+88;179;10245;Camiseta Print Pesco Logo Existo;Único / G;0;0;0;1
+88;180;10245;Camiseta Print Pesco Logo Existo;Único / GG;13;0;13;1
+88;181;10245;Camiseta Print Pesco Logo Existo;Único / XG;18;0;18;1
+89;182;10251;Camiseta For Fisher;Único / P;11;1;12;1
+89;183;10251;Camiseta For Fisher;Único / M;10;0;10;1
+89;184;10251;Camiseta For Fisher;G / Único;0;1;1;1
+89;185;10251;Camiseta For Fisher;Único / GG;14;0;14;1
+89;186;10251;Camiseta For Fisher;Único / XG;13;1;14;1
+90;187;10275;Squeeze For Fisher;Único / Único;14;2;16;1
+91;188;13001;DVD Documentário Tucunaré-açu;Único / Único;102;0;102;1
+8;193;10055;Sandália Tucunaré;Único / 37/38;13;0;13;1
+7;194;10054;Sandália Traíra;37/38 / Único;24;0;24;1
+6;195;10053;Sandália Tambaqui;Único / 37/38;21;0;21;1
+5;196;10052;Sandália Robalo;Único / 37/38;23;0;23;1
+3;197;10050;Sandália Dourado;37/38 / Único;20;1;21;1
+93;198;10421;Camiseta Rei do Rio;Único / P;15;0;15;1
+93;199;10421;Camiseta Rei do Rio;Único / M;12;1;13;1
+93;200;10421;Camiseta Rei do Rio;G / Único;4;0;4;1
+93;201;10421;Camiseta Rei do Rio;Único / GG;12;0;12;1
+93;202;10421;Camiseta Rei do Rio;XG / Único;13;0;13;1
+94;203;10422;Camiseta Embaixador da Pesca;P / Único;5;0;5;1
+94;204;10422;Camiseta Embaixador da Pesca;Único / M;3;0;3;1
+94;205;10422;Camiseta Embaixador da Pesca;G / Único;0;1;1;1
+94;206;10422;Camiseta Embaixador da Pesca;GG / Único;9;0;9;1
+94;207;10422;Camiseta Embaixador da Pesca;Único / XG;7;0;7;1
+95;208;10423;Camiseta Caçador do Mangue;P / Único;7;0;7;1
+95;209;10423;Camiseta Caçador do Mangue;M / Único;17;0;17;1
+95;210;10423;Camiseta Caçador do Mangue;Único / G;3;0;3;1
+95;211;10423;Camiseta Caçador do Mangue;Único / GG;4;1;5;1
+95;212;10423;Camiseta Caçador do Mangue;XG / Único;7;0;7;1
+96;213;10424;Camiseta Mestre da Emboscada;Único / P;11;0;11;0
+96;214;10424;Camiseta Mestre da Emboscada;M / Único;8;0;8;0
+96;215;10424;Camiseta Mestre da Emboscada;G / Único;0;0;0;0
+96;216;10424;Camiseta Mestre da Emboscada;Único / GG;5;0;5;0
+96;217;10424;Camiseta Mestre da Emboscada;XG / Único;7;0;7;0
+97;218;10429;Camiseta Salto do Dourado;P / Único;18;1;19;1
+97;219;10429;Camiseta Salto do Dourado;Único / M;15;0;15;1
+97;220;10429;Camiseta Salto do Dourado;G / Único;10;0;10;1
+97;221;10429;Camiseta Salto do Dourado;GG / Único;11;0;11;1
+97;222;10429;Camiseta Salto do Dourado;Único / XG;13;0;13;1
+98;223;10430;Camiseta Salto do Tucunaré;P / Único;7;0;7;1
+98;224;10430;Camiseta Salto do Tucunaré;Único / M;0;0;0;1
+98;225;10430;Camiseta Salto do Tucunaré;Único / G;0;0;0;1
+98;226;10430;Camiseta Salto do Tucunaré;Único / GG;0;0;0;1
+98;227;10430;Camiseta Salto do Tucunaré;Único / XG;4;0;4;1
+99;228;10431;Camiseta Salto do Robalo;Único / P;1;0;1;1
+99;229;10431;Camiseta Salto do Robalo;M / Único;7;0;7;1
+99;230;10431;Camiseta Salto do Robalo;G / Único;0;0;0;1
+99;231;10431;Camiseta Salto do Robalo;Único / GG;5;1;6;1
+99;232;10431;Camiseta Salto do Robalo;XG / Único;4;0;4;1
+100;233;10432;Camiseta Salto da Cachorra;Único / P;7;0;7;1
+100;234;10432;Camiseta Salto da Cachorra;M / Único;16;0;16;1
+100;235;10432;Camiseta Salto da Cachorra;Único / G;19;0;19;1
+100;236;10432;Camiseta Salto da Cachorra;GG / Único;24;0;24;1
+100;237;10432;Camiseta Salto da Cachorra;XG / Único;9;0;9;1
+101;238;10441;Camiseta Estrelas Fish TV;Único / P;2;0;2;0
+101;239;10441;Camiseta Estrelas Fish TV;Único / M;3;0;3;0
+101;240;10441;Camiseta Estrelas Fish TV;G / Único;0;0;0;0
+101;241;10441;Camiseta Estrelas Fish TV;Único / GG;3;0;3;0
+101;242;10441;Camiseta Estrelas Fish TV;Único / XG;4;0;4;0
+102;243;10444;Camiseta Fish TV Angler;P / Único;9;0;9;1
+102;244;10444;Camiseta Fish TV Angler;M / Único;6;0;6;1
+102;245;10444;Camiseta Fish TV Angler;Único / G;6;0;6;1
+102;246;10444;Camiseta Fish TV Angler;GG / Único;9;0;9;1
+102;247;10444;Camiseta Fish TV Angler;XG / Único;6;0;6;1
+103;248;10438;Camiseta Infantil Galera Fish TV;6 / Único;22;0;22;1
+103;249;10438;Camiseta Infantil Galera Fish TV;8 / Único;3;0;3;1
+103;250;10438;Camiseta Infantil Galera Fish TV;10 / Único;5;0;5;1
+103;251;10438;Camiseta Infantil Galera Fish TV;12 / Único;7;0;7;1
+112;253;10458;Boné Momento da Pesca - Edição limitada;Único / Único;0;0;0;1
+113;369;10481;Camiseta Anzol For Fisher;Único / P;5;0;5;1
+113;370;10481;Camiseta Anzol For Fisher;Único / M;3;0;3;1
+113;371;10481;Camiseta Anzol For Fisher;G / Único;8;0;8;1
+113;372;10481;Camiseta Anzol For Fisher;GG / Único;3;1;4;1
+113;373;10481;Camiseta Anzol For Fisher;Único / XG;9;0;9;1
+113;374;10481;Camiseta Anzol For Fisher;XGG / Único;1;0;1;1
+115;375;10483;Camiseta Cardume Fish TV;Único / P;3;0;3;1
+115;376;10483;Camiseta Cardume Fish TV;Único / M;4;0;4;1
+115;377;10483;Camiseta Cardume Fish TV;G / Único;3;0;3;1
+115;378;10483;Camiseta Cardume Fish TV;Único / GG;5;0;5;1
+115;379;10483;Camiseta Cardume Fish TV;Único / XG;7;0;7;1
+115;380;10483;Camiseta Cardume Fish TV;XGG / Único;6;0;6;1
+117;381;10485;Camiseta Hei Matau Maori - Branca;P / Único;5;0;5;1
+117;382;10485;Camiseta Hei Matau Maori - Branca;M / Único;0;1;1;1
+117;383;10485;Camiseta Hei Matau Maori - Branca;Único / G;8;0;8;1
+117;384;10485;Camiseta Hei Matau Maori - Branca;Único / GG;11;0;11;1
+117;385;10485;Camiseta Hei Matau Maori - Branca;XG / Único;9;0;9;1
+117;386;10485;Camiseta Hei Matau Maori - Branca;XGG / Único;3;0;3;1
+121;387;10489;Camiseta Pampo Maori - Azul;Único / P;5;0;5;1
+121;388;10489;Camiseta Pampo Maori - Azul;M / Único;0;0;0;1
+121;389;10489;Camiseta Pampo Maori - Azul;Único / G;7;0;7;1
+121;390;10489;Camiseta Pampo Maori - Azul;GG / Único;8;0;8;1
+121;391;10489;Camiseta Pampo Maori - Azul;XG / Único;9;0;9;1
+121;392;10489;Camiseta Pampo Maori - Azul;Único / XGG;5;0;5;1
+122;393;10490;Camiseta Peixe Grande Toma Linha;Único / P;4;0;4;1
+122;394;10490;Camiseta Peixe Grande Toma Linha;M / Único;0;0;0;1
+122;395;10490;Camiseta Peixe Grande Toma Linha;G / Único;3;0;3;1
+122;396;10490;Camiseta Peixe Grande Toma Linha;Único / GG;8;0;8;1
+122;397;10490;Camiseta Peixe Grande Toma Linha;XG / Único;8;0;8;1
+122;398;10490;Camiseta Peixe Grande Toma Linha;XGG / Único;3;0;3;1
+125;399;10493;Camiseta Tucunaré Aquarela - Branca;Único / P;3;0;3;1
+125;400;10493;Camiseta Tucunaré Aquarela - Branca;M / Único;0;1;1;1
+125;401;10493;Camiseta Tucunaré Aquarela - Branca;Único / G;0;0;0;1
+125;402;10493;Camiseta Tucunaré Aquarela - Branca;Único / GG;3;0;3;1
+125;403;10493;Camiseta Tucunaré Aquarela - Branca;XG / Único;4;0;4;1
+125;404;10493;Camiseta Tucunaré Aquarela - Branca;Único / XGG;5;0;5;1
+131;405;10499;Camiseta Tamba Fisher;Único / P;4;1;5;1
+131;406;10499;Camiseta Tamba Fisher;M / Único;0;0;0;1
+131;407;10499;Camiseta Tamba Fisher;Único / G;3;0;3;1
+131;408;10499;Camiseta Tamba Fisher;Único / GG;11;0;11;1
+131;409;10499;Camiseta Tamba Fisher;Único / XG;9;0;9;1
+131;410;10499;Camiseta Tamba Fisher;Único / XGG;4;0;4;1
+133;411;10501;Camiseta Tambaqui Aquarela - Preta;Único / P;3;1;4;1
+133;412;10501;Camiseta Tambaqui Aquarela - Preta;M / Único;0;0;0;1
+133;413;10501;Camiseta Tambaqui Aquarela - Preta;G / Único;4;1;5;1
+133;414;10501;Camiseta Tambaqui Aquarela - Preta;GG / Único;6;0;6;1
+133;415;10501;Camiseta Tambaqui Aquarela - Preta;XG / Único;6;0;6;1
+133;416;10501;Camiseta Tambaqui Aquarela - Preta;Único / XGG;4;0;4;1
+114;417;10482;Camiseta Boia Cevadeira;P / Único;4;0;4;1
+114;418;10482;Camiseta Boia Cevadeira;M / Único;0;0;0;1
+114;419;10482;Camiseta Boia Cevadeira;Único / G;1;0;1;1
+114;420;10482;Camiseta Boia Cevadeira;GG / Único;10;0;10;1
+114;421;10482;Camiseta Boia Cevadeira;XG / Único;8;0;8;1
+114;422;10482;Camiseta Boia Cevadeira;Único / XGG;4;0;4;1
+116;423;10484;Camiseta Baby Look Cardume Fish TV;P / Único;2;0;2;1
+116;424;10484;Camiseta Baby Look Cardume Fish TV;Único / M;0;1;1;1
+116;425;10484;Camiseta Baby Look Cardume Fish TV;Único / G;2;1;3;1
+118;426;10486;Camiseta Hei Matau Maori - Preta;P / Único;4;0;4;1
+118;427;10486;Camiseta Hei Matau Maori - Preta;M / Único;0;0;0;1
+118;428;10486;Camiseta Hei Matau Maori - Preta;Único / G;6;0;6;1
+118;429;10486;Camiseta Hei Matau Maori - Preta;GG / Único;6;0;6;1
+118;430;10486;Camiseta Hei Matau Maori - Preta;Único / XG;7;0;7;1
+118;431;10486;Camiseta Hei Matau Maori - Preta;Único / XGG;4;0;4;1
+119;432;10487;Camiseta Baby Look Hei Matau Maori - Preta;P / Único;2;1;3;1
+119;433;10487;Camiseta Baby Look Hei Matau Maori - Preta;M / Único;0;2;2;1
+119;434;10487;Camiseta Baby Look Hei Matau Maori - Preta;Único / G;4;0;4;1
+120;435;10488;Camiseta Pampo Maori - Branca;Único / P;5;0;5;1
+120;436;10488;Camiseta Pampo Maori - Branca;Único / M;0;0;0;1
+120;437;10488;Camiseta Pampo Maori - Branca;Único / G;4;0;4;1
+120;438;10488;Camiseta Pampo Maori - Branca;Único / GG;11;0;11;1
+120;439;10488;Camiseta Pampo Maori - Branca;XG / Único;11;0;11;1
+120;440;10488;Camiseta Pampo Maori - Branca;Único / XGG;5;0;5;1
+123;441;10491;Camiseta Baby Look Peixe Grande Toma Linha;P / Único;3;0;3;1
+123;442;10491;Camiseta Baby Look Peixe Grande Toma Linha;M / Único;1;0;1;1
+123;443;10491;Camiseta Baby Look Peixe Grande Toma Linha;Único / G;2;0;2;1
+124;444;10492;Camiseta Pescar é o Meu Esporte;P / Único;3;0;3;1
+124;445;10492;Camiseta Pescar é o Meu Esporte;Único / M;0;0;0;1
+124;446;10492;Camiseta Pescar é o Meu Esporte;G / Único;0;1;1;1
+124;447;10492;Camiseta Pescar é o Meu Esporte;GG / Único;5;0;5;1
+124;448;10492;Camiseta Pescar é o Meu Esporte;Único / XG;9;0;9;1
+124;449;10492;Camiseta Pescar é o Meu Esporte;XGG / Único;2;0;2;1
+126;450;10494;Camiseta Baby Look Tucunaré Aquarela - Branca;Único / P;3;0;3;1
+126;451;10494;Camiseta Baby Look Tucunaré Aquarela - Branca;Único / M;4;0;4;1
+126;452;10494;Camiseta Baby Look Tucunaré Aquarela - Branca;G / Único;4;0;4;1
+127;453;10495;Camiseta Tucunaré Aquarela - Preta;P / Único;3;0;3;1
+127;454;10495;Camiseta Tucunaré Aquarela - Preta;Único / M;0;0;0;1
+127;455;10495;Camiseta Tucunaré Aquarela - Preta;G / Único;0;2;2;1
+127;456;10495;Camiseta Tucunaré Aquarela - Preta;GG / Único;0;1;1;1
+127;457;10495;Camiseta Tucunaré Aquarela - Preta;Único / XG;3;0;3;1
+127;458;10495;Camiseta Tucunaré Aquarela - Preta;XGG / Único;0;0;0;1
+128;459;10496;Camiseta Pescar e Soltar;P / Único;4;0;4;1
+128;460;10496;Camiseta Pescar e Soltar;Único / M;4;0;4;1
+128;461;10496;Camiseta Pescar e Soltar;G / Único;6;1;7;1
+128;462;10496;Camiseta Pescar e Soltar;Único / GG;3;1;4;1
+128;463;10496;Camiseta Pescar e Soltar;Único / XG;10;0;10;1
+128;464;10496;Camiseta Pescar e Soltar;XGG / Único;0;0;0;1
+129;465;10497;Camiseta Robalo Maori;Único / P;5;0;5;1
+129;466;10497;Camiseta Robalo Maori;Único / M;4;1;5;1
+129;467;10497;Camiseta Robalo Maori;G / Único;6;1;7;1
+129;468;10497;Camiseta Robalo Maori;GG / Único;5;1;6;1
+129;469;10497;Camiseta Robalo Maori;Único / XG;10;0;10;1
+129;470;10497;Camiseta Robalo Maori;Único / XGG;6;0;6;1
+130;471;10498;Camiseta Baby Look Robalo Maori;Único / P;3;0;3;1
+130;472;10498;Camiseta Baby Look Robalo Maori;Único / M;1;1;2;1
+130;473;10498;Camiseta Baby Look Robalo Maori;G / Único;4;0;4;1
+132;474;10500;Camiseta Tambaqui Aquarela - Branca;P / Único;4;0;4;1
+132;475;10500;Camiseta Tambaqui Aquarela - Branca;Único / M;0;0;0;1
+132;476;10500;Camiseta Tambaqui Aquarela - Branca;Único / G;0;0;0;1
+132;477;10500;Camiseta Tambaqui Aquarela - Branca;GG / Único;9;0;9;1
+132;478;10500;Camiseta Tambaqui Aquarela - Branca;XG / Único;9;0;9;1
+132;479;10500;Camiseta Tambaqui Aquarela - Branca;XGG / Único;3;0;3;1
+134;480;10502;Camiseta Baby Look Tambaqui Aquarela - Preta;Único / P;4;0;4;1
+134;481;10502;Camiseta Baby Look Tambaqui Aquarela - Preta;M / Único;0;1;1;1
+134;482;10502;Camiseta Baby Look Tambaqui Aquarela - Preta;G / Único;3;0;3;1
+135;501;10538;Boné Clássico Dourado;Único / Único;15;0;15;1
+136;502;10539;Boné Escama Dourado;Único / Único;5;1;6;1
+137;503;10540;Boné Escama Tucunaré;Único / Único;17;0;17;1
+138;504;10541;Boné Clássico Tucunaré;Único / Único;14;0;14;1
+139;505;10542;Boné Escama Tambaqui;Único / Único;11;0;11;1
+140;507;10543;Boné Pesque & Pague;Único / Único;18;0;18;1
+141;508;10544;"Boné ""Esse é Bruto!""";Único / Único;17;0;17;1
+142;509;10545;Boné Pampo Maori;Único / Único;17;0;17;1
+143;510;10546;Boné Robalo Maori;Único / Único;13;0;13;1
+144;511;10547;Boné For Fisher Aba Reta;Único / Único;17;0;17;1
+145;512;10548;Boné Pesco Logo Existo;Único / Único;13;1;14;1
+146;513;10549;Boné Pescar e Soltar;Único / Único;16;1;17;1
+147;514;10550;Boné Isca Stick;Único / Único;17;2;19;1
+148;515;10551;Boné Tamba Fisher;Único / Único;19;0;19;1
+149;516;10572;Abridor Pesque e Solte;Único / Único;5;2;7;1
+150;517;10573;Chaveiro Pesque e Solte;Único / Único;17;0;17;1
+151;518;10574;Chaveiro Tucunaré;Único / Único;4;1;5;1
+152;519;10575;Chaveiro For Fisher;Único / Único;18;1;19;1
+153;520;10576;Caneca Salto do Dourado;Único / Único;18;1;19;1
+154;521;10577;Caneca Salto do Tucunaré;Único / Único;21;1;22;1
+155;522;10578;Caneca Tucunaré Aquarela;Único / Único;13;0;13;1
+156;523;10579;Caneca Pampo Maori;Único / Único;21;0;21;1
+157;524;10580;Caneca Cardume Fish TV;Único / Único;19;1;20;1
+158;525;10581;Caneca Pescar... Começar;Único / Único;15;1;16;1
+159;526;10582;Porta Copos Salto do Tucunaré + Pesco Logo Existo;Único / Único;0;0;0;0
+160;527;10583;Porta Copos Anzol + Pesco Logo Existo;Único / Único;0;0;0;0
+161;528;10584;Sandália Tucunaré Aquarela;Único / 37/38;0;0;0;0
+161;529;10584;Sandália Tucunaré Aquarela;39/40 / Único;0;0;0;0
+161;530;10584;Sandália Tucunaré Aquarela;41/42 / Único;0;0;0;0
+161;531;10584;Sandália Tucunaré Aquarela;Único / 43/44;0;0;0;0
+162;532;10585;Sandália Esse é Bruto!;37/38 / Único;0;0;0;0
+162;533;10585;Sandália Esse é Bruto!;39/40 / Único;0;0;0;0
+162;534;10585;Sandália Esse é Bruto!;Único / 41/42;0;0;0;0
+162;535;10585;Sandália Esse é Bruto!;43/44 / Único;0;0;0;0
+163;536;10586;Colar Anzol For Fisher;Único / Único;10;0;10;1
+164;537;10587;Colar Hei Matau Metal;Único / Único;6;1;7;1
+165;538;10588;Colar Isca Stick;Único / Único;2;0;2;1
+166;539;10589;Pulseira Anzol 3 voltas;Único / Único;0;0;0;0
+167;540;10590;Pulseira Anzol Hei Matau;Único / Único;0;0;0;0
+168;541;10591;Pulseira Anzol For Fisher;Único / Único;0;0;0;0
+170;542;;Camiseta Hei Matau Maori (teste);P / Branco;0;0;0;0
+170;543;;Camiseta Hei Matau Maori (teste);Branco / M;0;0;0;0
+170;544;;Camiseta Hei Matau Maori (teste);G / Branco;0;0;0;0
+170;545;;Camiseta Hei Matau Maori (teste);Branco / GG;0;0;0;0
+170;546;;Camiseta Hei Matau Maori (teste);Branco / XG;0;0;0;0
+170;547;;Camiseta Hei Matau Maori (teste);P / Preto;0;0;0;0
+170;548;;Camiseta Hei Matau Maori (teste);Preto / M;0;0;0;0
+170;549;;Camiseta Hei Matau Maori (teste);Preto / G;0;0;0;0
+170;550;;Camiseta Hei Matau Maori (teste);GG / Preto;0;0;0;0
+170;551;;Camiseta Hei Matau Maori (teste);Preto / XG;0;0;0;0

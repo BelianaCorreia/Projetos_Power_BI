@@ -1,0 +1,136 @@
+
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>UF</th>
+                                    <th>Pedidos</th>
+                                    <th>Produtos Vendidos</th>
+                                    <th>Ticket Médio</th>
+                                    <th>Valor Total</th>
+                                    <th>Valor de Frete</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <!-- ngRepeat: item in listagemEstado --><tr ng-repeat="item in listagemEstado" class="ng-scope" style="">
+                                    <td class="ng-binding">AM</td>
+                                    <td class="ng-binding">1</td>
+                                    <td class="ng-binding">3</td>
+                                    <td class="ng-binding">R$ 179,70</td>
+                                    <td class="ng-binding">R$ 179,70</td>
+                                    <td class="ng-binding">R$ 34,77</td>
+                                </tr><!-- end ngRepeat: item in listagemEstado --><tr ng-repeat="item in listagemEstado" class="ng-scope">
+                                    <td class="ng-binding">BA</td>
+                                    <td class="ng-binding">3</td>
+                                    <td class="ng-binding">15</td>
+                                    <td class="ng-binding">R$ 294,50</td>
+                                    <td class="ng-binding">R$ 883,50</td>
+                                    <td class="ng-binding">R$ 139,83</td>
+                                </tr><!-- end ngRepeat: item in listagemEstado --><tr ng-repeat="item in listagemEstado" class="ng-scope">
+                                    <td class="ng-binding">DF</td>
+                                    <td class="ng-binding">4</td>
+                                    <td class="ng-binding">8</td>
+                                    <td class="ng-binding">R$ 141,05</td>
+                                    <td class="ng-binding">R$ 564,20</td>
+                                    <td class="ng-binding">R$ 97,88</td>
+                                </tr><!-- end ngRepeat: item in listagemEstado --><tr ng-repeat="item in listagemEstado" class="ng-scope">
+                                    <td class="ng-binding">ES</td>
+                                    <td class="ng-binding">3</td>
+                                    <td class="ng-binding">7</td>
+                                    <td class="ng-binding">R$ 156,43</td>
+                                    <td class="ng-binding">R$ 469,30</td>
+                                    <td class="ng-binding">R$ 79,02</td>
+                                </tr><!-- end ngRepeat: item in listagemEstado --><tr ng-repeat="item in listagemEstado" class="ng-scope">
+                                    <td class="ng-binding">GO</td>
+                                    <td class="ng-binding">5</td>
+                                    <td class="ng-binding">11</td>
+                                    <td class="ng-binding">R$ 155,38</td>
+                                    <td class="ng-binding">R$ 776,90</td>
+                                    <td class="ng-binding">R$ 170,55</td>
+                                </tr><!-- end ngRepeat: item in listagemEstado --><tr ng-repeat="item in listagemEstado" class="ng-scope">
+                                    <td class="ng-binding">MA</td>
+                                    <td class="ng-binding">1</td>
+                                    <td class="ng-binding">1</td>
+                                    <td class="ng-binding">R$ 79,90</td>
+                                    <td class="ng-binding">R$ 79,90</td>
+                                    <td class="ng-binding">R$ 42,75</td>
+                                </tr><!-- end ngRepeat: item in listagemEstado --><tr ng-repeat="item in listagemEstado" class="ng-scope">
+                                    <td class="ng-binding">MG</td>
+                                    <td class="ng-binding">19</td>
+                                    <td class="ng-binding">52</td>
+                                    <td class="ng-binding">R$ 208,04</td>
+                                    <td class="ng-binding">R$ 3.952,80</td>
+                                    <td class="ng-binding">R$ 464,37</td>
+                                </tr><!-- end ngRepeat: item in listagemEstado --><tr ng-repeat="item in listagemEstado" class="ng-scope">
+                                    <td class="ng-binding">MS</td>
+                                    <td class="ng-binding">4</td>
+                                    <td class="ng-binding">8</td>
+                                    <td class="ng-binding">R$ 161,80</td>
+                                    <td class="ng-binding">R$ 647,20</td>
+                                    <td class="ng-binding">R$ 102,88</td>
+                                </tr><!-- end ngRepeat: item in listagemEstado --><tr ng-repeat="item in listagemEstado" class="ng-scope">
+                                    <td class="ng-binding">MT</td>
+                                    <td class="ng-binding">4</td>
+                                    <td class="ng-binding">11</td>
+                                    <td class="ng-binding">R$ 165,98</td>
+                                    <td class="ng-binding">R$ 663,90</td>
+                                    <td class="ng-binding">R$ 119,69</td>
+                                </tr><!-- end ngRepeat: item in listagemEstado --><tr ng-repeat="item in listagemEstado" class="ng-scope">
+                                    <td class="ng-binding">PE</td>
+                                    <td class="ng-binding">1</td>
+                                    <td class="ng-binding">1</td>
+                                    <td class="ng-binding">R$ 69,90</td>
+                                    <td class="ng-binding">R$ 69,90</td>
+                                    <td class="ng-binding">R$ 34,77</td>
+                                </tr><!-- end ngRepeat: item in listagemEstado --><tr ng-repeat="item in listagemEstado" class="ng-scope">
+                                    <td class="ng-binding">PR</td>
+                                    <td class="ng-binding">19</td>
+                                    <td class="ng-binding">49</td>
+                                    <td class="ng-binding">R$ 174,27</td>
+                                    <td class="ng-binding">R$ 3.311,10</td>
+                                    <td class="ng-binding">R$ 375,02</td>
+                                </tr><!-- end ngRepeat: item in listagemEstado --><tr ng-repeat="item in listagemEstado" class="ng-scope">
+                                    <td class="ng-binding">RJ</td>
+                                    <td class="ng-binding">14</td>
+                                    <td class="ng-binding">28</td>
+                                    <td class="ng-binding">R$ 142,87</td>
+                                    <td class="ng-binding">R$ 2.000,20</td>
+                                    <td class="ng-binding">R$ 422,15</td>
+                                </tr><!-- end ngRepeat: item in listagemEstado --><tr ng-repeat="item in listagemEstado" class="ng-scope">
+                                    <td class="ng-binding">RO</td>
+                                    <td class="ng-binding">2</td>
+                                    <td class="ng-binding">15</td>
+                                    <td class="ng-binding">R$ 414,25</td>
+                                    <td class="ng-binding">R$ 828,50</td>
+                                    <td class="ng-binding">R$ 111,46</td>
+                                </tr><!-- end ngRepeat: item in listagemEstado --><tr ng-repeat="item in listagemEstado" class="ng-scope">
+                                    <td class="ng-binding">RS</td>
+                                    <td class="ng-binding">22</td>
+                                    <td class="ng-binding">36</td>
+                                    <td class="ng-binding">R$ 101,61</td>
+                                    <td class="ng-binding">R$ 2.235,40</td>
+                                    <td class="ng-binding">R$ 104,95</td>
+                                </tr><!-- end ngRepeat: item in listagemEstado --><tr ng-repeat="item in listagemEstado" class="ng-scope">
+                                    <td class="ng-binding">SC</td>
+                                    <td class="ng-binding">10</td>
+                                    <td class="ng-binding">21</td>
+                                    <td class="ng-binding">R$ 154,69</td>
+                                    <td class="ng-binding">R$ 1.546,90</td>
+                                    <td class="ng-binding">R$ 259,80</td>
+                                </tr><!-- end ngRepeat: item in listagemEstado --><tr ng-repeat="item in listagemEstado" class="ng-scope">
+                                    <td class="ng-binding">SP</td>
+                                    <td class="ng-binding">61</td>
+                                    <td class="ng-binding">187</td>
+                                    <td class="ng-binding">R$ 212,43</td>
+                                    <td class="ng-binding">R$ 12.958,30</td>
+                                    <td class="ng-binding">R$ 1.352,02</td>
+                                </tr><!-- end ngRepeat: item in listagemEstado --><tr ng-repeat="item in listagemEstado" class="ng-scope">
+                                    <td class="ng-binding">TO</td>
+                                    <td class="ng-binding">1</td>
+                                    <td class="ng-binding">2</td>
+                                    <td class="ng-binding">R$ 149,80</td>
+                                    <td class="ng-binding">R$ 149,80</td>
+                                    <td class="ng-binding">R$ 29,22</td>
+                                </tr><!-- end ngRepeat: item in listagemEstado -->
+                            </tbody>
+                        </table>
+                    

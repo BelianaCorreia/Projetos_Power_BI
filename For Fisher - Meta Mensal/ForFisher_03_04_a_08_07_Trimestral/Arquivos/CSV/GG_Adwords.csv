@@ -1,0 +1,23 @@
+Status da campanha;Campanha;Nome do orçamento;Orçamento;Tipo de orçamento;Status;Tipo de estratégia de lances;Tipo de campanha;Impr.;Interações;Taxa de interação;Custo médio;Custo
+Pausado;Pesquisa - Foco em Vendas;--;R$20,00 ;Diário;Pausado;CPC manual;Pesquisar;0;0;--;0;R$0,00 
+Pausado;Display - Quinzena do Pescador;--;R$20,00 ;Diário;Pausado;CPC (otimizado);Display;0;0;--;0;R$0,00 
+Pausado;Camp_Remarketing_Vendas;--;R$30,00 ;Diário;Pausado;CPC (otimizado);Display;392.318;2.917;0,74%;R$0,23 ;R$672,59 
+Pausado;Display - Quinzena da Casa do Pescador;--;R$12,00 ;Diário;Pausado;CPC (otimizado);Display;0;0;--;0;R$0,00 
+Ativada;Camp_Pesqueiros;--;R$50,00 ;Diário;Finalizada;Maximizar as conversões;Pesquisar;57.965;1.162;2,00%;R$0,30 ;R$349,55 
+Pausado;Pesquisa - Conhecimento de Marca;--;R$10,00 ;Diário;Pausado;CPC manual;Pesquisar;0;0;--;0;R$0,00 
+Pausado;Display - Semana do Pescador Esportivo;--;R$20,00 ;Diário;Pausado;CPC (otimizado);Display;0;0;--;0;R$0,00 
+Pausado;Display - Quinzena do Tucunaré;--;R$20,00 ;Diário;Pausado;CPC (otimizado);Display;0;0;--;0;R$0,00 
+Pausado;Display - Quinzena do Peixe na Cabeça;--;R$20,00 ;Diário;Pausado;CPC (otimizado);Display;0;0;--;0;R$0,00 
+Pausado;Display - Quinzena do Robalo;--;R$20,00 ;Diário;Pausado;CPC (otimizado);Display;0;0;--;0;R$0,00 
+Pausado;Camp_Nova_Coleção_Video_Apresentadores_FFR;--;R$70,00 ;Diário;Pausado;CPV manual;Vídeo;0;0;--;0;R$0,00 
+Pausado;Camp_Vendas_Nova_Coleção;--;R$50,00 ;Diário;Pausado;CPC (otimizado);Display;0;0;--;0;R$0,00 
+Pausado;Display - Foco em Vendas;--;R$20,00 ;Diário;Pausado;CPC (otimizado);Display;0;0;--;0;R$0,00 
+Pausado;Display - Conhecimento de Marca;--;R$10,00 ;Diário;Pausado;CPC (otimizado);Display;0;0;--;0;R$0,00 
+Pausado;Cam_Display_Dia do Cliente;--;R$20,00 ;Diário;Pausado;CPC (otimizado);Display;0;0;--;0;R$0,00 
+Pausado;Display - Quinzena do Amor pela Pesca;--;R$20,00 ;Diário;Pausado;CPC (otimizado);Display;0;0;--;0;R$0,00 
+Pausado;Display - Quinzena da Pesca Com Estilo;--;R$20,00 ;Diário;Pausado;CPC (otimizado);Display;0;0;--;0;R$0,00 
+Pausado;Display - Quinzena de Verão;--;R$20,00 ;Diário;Pausado;CPC (otimizado);Display;0;0;--;0;R$0,00 
+Pausado;Camp_Vendas_Pesquisa;--;R$30,00 ;Diário;Pausado;Maximizar as conversões;Pesquisar;0;0;--;0;R$0,00 
+Pausado;Camp_Nova_Coleção_Video;--;R$10,00 ;Diário;Pausado;CPA desejado;Vídeo;0;0;--;0;R$0,00 
+Pausado;Display - Quinzena do Tambaqui;--;R$20,00 ;Diário;Pausado;CPC (otimizado);Display;0;0;--;0;R$0,00 
+Pausado;Display - Quinzena da Traíra;--;R$20,00 ;Diário;Pausado;CPC (otimizado);Display;0;0;--;0;R$0,00 

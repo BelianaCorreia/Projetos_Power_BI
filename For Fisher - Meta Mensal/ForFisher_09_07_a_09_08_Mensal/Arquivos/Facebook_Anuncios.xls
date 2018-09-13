@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8715</WindowHeight>
+  <WindowWidth>22680</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat ss:Format="yyyy\-mm\-dd"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana"/>
+   <Interior/>
+   <NumberFormat ss:Format="0"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="19" ss:ExpandedRowCount="5" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="150" ss:Span="1"/>
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="201.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="150" ss:Span="15"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Início dos relatórios</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Término dos relatórios</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Nome da campanha</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Veiculação</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Resultados</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Indicador de resultados</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Alcance</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Impressões</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Custo por resultados</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Orçamento</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Tipo de orçamento</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Valor gasto (BRL)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Término</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Frequência</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Cliques no link únicos</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Cliques no link</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Compras no site</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Visualizações da página de destino</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Custo por visualização da página de destino (BRL)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2018-07-09T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2018-08-09T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Camp_Ads</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">not_delivering</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1800</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">actions:landing_page_view</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">128897</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">219189</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">0.47356700000000002</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Usando orçamento do conjunto de anúncios</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">852.42</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Contínuo</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">1.7004969999999999</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">2997</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">3863</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1800</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">0.47356700000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2018-07-09T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2018-08-09T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Camp_Vídeo</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">inactive</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">3400</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">video_10_sec_watched_actions</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">29600</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">40988</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">5.3726000000000003E-2</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Usando orçamento do conjunto de anúncios</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">182.67</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2018-08-05T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">1.38473</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2018-07-09T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2018-08-09T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Conj_Dia_do_Amigo</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">inactive</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">2988</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">3069</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Usando orçamento do conjunto de anúncios</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">14.89</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2018-07-21T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">1.0271079999999999</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2018-07-09T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2018-08-09T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Conj_Carrossel_Site_Conversão</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">inactive</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">actions:offsite_conversion.fb_pixel_purchase</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">7573</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">14020</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">5.3479999999999999</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Usando orçamento do conjunto de anúncios</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">53.48</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Contínuo</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">1.8513139999999999</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">176</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">226</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">176</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">0.30386400000000002</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.4921259845"/>
+    <Footer x:Margin="0.4921259845"/>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Unsynced/>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>15</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

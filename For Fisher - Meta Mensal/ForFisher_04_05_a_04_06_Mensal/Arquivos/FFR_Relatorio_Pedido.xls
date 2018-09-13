@@ -1,0 +1,1121 @@
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Data</th>
+                        <th>Status</th>
+                        <th>Pagamento</th>
+                        <th>Dispositivo</th>
+                        <th>Produtos</th>
+                        <th>SubTotal</th>
+                        <th>Descontos</th>
+                        <th>Frete</th>
+                        <th>Valor</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope" style="">
+                        <td class="ng-binding">005848</td>
+                        <td class="ng-binding">04/06/2018 23:25</td>
+                        <td class="ng-binding">APROVADO CRÉDITO</td>
+                        <td class="ng-binding">MOIP CC 2x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 87,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 23,21</td>
+                        <td class="ng-binding">R$ 111,11</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005844</td>
+                        <td class="ng-binding">04/06/2018 14:48</td>
+                        <td class="ng-binding">APROVADO CRÉDITO</td>
+                        <td class="ng-binding">MOIP CC 2x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 269,60</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 20,27</td>
+                        <td class="ng-binding">R$ 289,87</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005843</td>
+                        <td class="ng-binding">04/06/2018 10:45</td>
+                        <td class="ng-binding">APROVADO CRÉDITO</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 39,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 23,21</td>
+                        <td class="ng-binding">R$ 63,11</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005842</td>
+                        <td class="ng-binding">04/06/2018 08:00</td>
+                        <td class="ng-binding">APROVADO CRÉDITO</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 99,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 64,75</td>
+                        <td class="ng-binding">R$ 164,55</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005841</td>
+                        <td class="ng-binding">04/06/2018 06:59</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 2x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 23,21</td>
+                        <td class="ng-binding">R$ 103,11</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005840</td>
+                        <td class="ng-binding">03/06/2018 21:51</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 1x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 149,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 21,00</td>
+                        <td class="ng-binding">R$ 170,80</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005839</td>
+                        <td class="ng-binding">03/06/2018 18:50</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 287,60</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 23,21</td>
+                        <td class="ng-binding">R$ 310,81</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005838</td>
+                        <td class="ng-binding">02/06/2018 15:14</td>
+                        <td class="ng-binding">APROVADO CRÉDITO</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 18,79</td>
+                        <td class="ng-binding">R$ 88,69</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005836</td>
+                        <td class="ng-binding">02/06/2018 11:48</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 3x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 49,58</td>
+                        <td class="ng-binding">R$ 119,48</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005835</td>
+                        <td class="ng-binding">02/06/2018 10:18</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 3x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 229,70</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 64,75</td>
+                        <td class="ng-binding">R$ 294,45</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005834</td>
+                        <td class="ng-binding">01/06/2018 15:46</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 149,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 21,00</td>
+                        <td class="ng-binding">R$ 170,80</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005833</td>
+                        <td class="ng-binding">31/05/2018 13:22</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 3x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 149,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 26,99</td>
+                        <td class="ng-binding">R$ 176,79</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005832</td>
+                        <td class="ng-binding">31/05/2018 11:18</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 23,21</td>
+                        <td class="ng-binding">R$ 93,11</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005831</td>
+                        <td class="ng-binding">30/05/2018 16:24</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 4x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 10,46</td>
+                        <td class="ng-binding">R$ 80,36</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005830</td>
+                        <td class="ng-binding">30/05/2018 11:23</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 23,21</td>
+                        <td class="ng-binding">R$ 93,11</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005829</td>
+                        <td class="ng-binding">30/05/2018 00:03</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 39,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 23,21</td>
+                        <td class="ng-binding">R$ 63,11</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005827</td>
+                        <td class="ng-binding">29/05/2018 17:19</td>
+                        <td class="ng-binding">APROVADO CRÉDITO</td>
+                        <td class="ng-binding">MOIP CC 3x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 309,60</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 55,84</td>
+                        <td class="ng-binding">R$ 365,44</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005826</td>
+                        <td class="ng-binding">29/05/2018 14:55</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 139,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 16,33</td>
+                        <td class="ng-binding">R$ 156,13</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005825</td>
+                        <td class="ng-binding">28/05/2018 23:08</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 189,70</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 30,08</td>
+                        <td class="ng-binding">R$ 219,78</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005824</td>
+                        <td class="ng-binding">28/05/2018 15:38</td>
+                        <td class="ng-binding">APROVADO CRÉDITO</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005823</td>
+                        <td class="ng-binding">28/05/2018 12:07</td>
+                        <td class="ng-binding">APROVADO CRÉDITO</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005822</td>
+                        <td class="ng-binding">28/05/2018 11:02</td>
+                        <td class="ng-binding">APROVADO CRÉDITO</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005821</td>
+                        <td class="ng-binding">28/05/2018 08:57</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 1x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 39,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 21,00</td>
+                        <td class="ng-binding">R$ 60,90</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005820</td>
+                        <td class="ng-binding">27/05/2018 22:00</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 2x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 23,21</td>
+                        <td class="ng-binding">R$ 103,11</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005818</td>
+                        <td class="ng-binding">27/05/2018 14:16</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 149,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 38,23</td>
+                        <td class="ng-binding">R$ 188,03</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005817</td>
+                        <td class="ng-binding">27/05/2018 10:03</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 3x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">5</td>
+                        <td class="ng-binding">R$ 319,50</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 24,47</td>
+                        <td class="ng-binding">R$ 343,97</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005814</td>
+                        <td class="ng-binding">26/05/2018 19:00</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 4x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 16,92</td>
+                        <td class="ng-binding">R$ 96,82</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005813</td>
+                        <td class="ng-binding">26/05/2018 15:34</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 3x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 18,79</td>
+                        <td class="ng-binding">R$ 98,69</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005812</td>
+                        <td class="ng-binding">25/05/2018 20:17</td>
+                        <td class="ng-binding">APROVADO CRÉDITO</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 23,21</td>
+                        <td class="ng-binding">R$ 103,11</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005811</td>
+                        <td class="ng-binding">25/05/2018 18:44</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">12</td>
+                        <td class="ng-binding">R$ 1.002,80</td>
+                        <td class="ng-binding">R$ 1.002,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005809</td>
+                        <td class="ng-binding">23/05/2018 23:01</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 149,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 20,82</td>
+                        <td class="ng-binding">R$ 170,62</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005808</td>
+                        <td class="ng-binding">23/05/2018 15:21</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 2x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 18,79</td>
+                        <td class="ng-binding">R$ 88,69</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005807</td>
+                        <td class="ng-binding">23/05/2018 14:31</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 2x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 21,00</td>
+                        <td class="ng-binding">R$ 90,90</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005804</td>
+                        <td class="ng-binding">21/05/2018 22:10</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 1x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 309,60</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 24,47</td>
+                        <td class="ng-binding">R$ 334,07</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005803</td>
+                        <td class="ng-binding">21/05/2018 18:37</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 1x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">18</td>
+                        <td class="ng-binding">R$ 1.018,20</td>
+                        <td class="ng-binding">R$ 1.011,00</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 7,20</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005802</td>
+                        <td class="ng-binding">21/05/2018 14:56</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 18,79</td>
+                        <td class="ng-binding">R$ 88,69</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005801</td>
+                        <td class="ng-binding">21/05/2018 14:18</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 167,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 18,79</td>
+                        <td class="ng-binding">R$ 186,59</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005800</td>
+                        <td class="ng-binding">21/05/2018 13:51</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 16,33</td>
+                        <td class="ng-binding">R$ 96,23</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005799</td>
+                        <td class="ng-binding">20/05/2018 22:47</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 2x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 79,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 20,82</td>
+                        <td class="ng-binding">R$ 100,62</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005798</td>
+                        <td class="ng-binding">20/05/2018 15:10</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 149,70</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 10,46</td>
+                        <td class="ng-binding">R$ 160,16</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005797</td>
+                        <td class="ng-binding">20/05/2018 07:25</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">5</td>
+                        <td class="ng-binding">R$ 267,50</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 49,58</td>
+                        <td class="ng-binding">R$ 317,08</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005796</td>
+                        <td class="ng-binding">19/05/2018 11:43</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 209,70</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 21,00</td>
+                        <td class="ng-binding">R$ 230,70</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005795</td>
+                        <td class="ng-binding">19/05/2018 10:43</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 23,21</td>
+                        <td class="ng-binding">R$ 93,11</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005794</td>
+                        <td class="ng-binding">18/05/2018 20:42</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 309,60</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 26,99</td>
+                        <td class="ng-binding">R$ 336,59</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005792</td>
+                        <td class="ng-binding">18/05/2018 14:01</td>
+                        <td class="ng-binding">APROVADO CRÉDITO</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005791</td>
+                        <td class="ng-binding">18/05/2018 09:41</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 229,70</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 38,23</td>
+                        <td class="ng-binding">R$ 267,93</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005789</td>
+                        <td class="ng-binding">17/05/2018 22:02</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 4x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 239,70</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 47,38</td>
+                        <td class="ng-binding">R$ 287,08</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005788</td>
+                        <td class="ng-binding">17/05/2018 20:27</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 25,72</td>
+                        <td class="ng-binding">R$ 105,62</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005787</td>
+                        <td class="ng-binding">17/05/2018 19:52</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 1x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 24,47</td>
+                        <td class="ng-binding">R$ 184,27</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005786</td>
+                        <td class="ng-binding">17/05/2018 17:15</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 197,70</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 18,79</td>
+                        <td class="ng-binding">R$ 216,49</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005785</td>
+                        <td class="ng-binding">17/05/2018 16:00</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 1x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 16,92</td>
+                        <td class="ng-binding">R$ 86,82</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005784</td>
+                        <td class="ng-binding">17/05/2018 15:20</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 167,70</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 29,22</td>
+                        <td class="ng-binding">R$ 196,92</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005783</td>
+                        <td class="ng-binding">17/05/2018 10:42</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 3x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 104,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 10,46</td>
+                        <td class="ng-binding">R$ 115,26</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005782</td>
+                        <td class="ng-binding">16/05/2018 20:03</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 47,38</td>
+                        <td class="ng-binding">R$ 207,18</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005781</td>
+                        <td class="ng-binding">16/05/2018 10:10</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 149,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 49,58</td>
+                        <td class="ng-binding">R$ 199,38</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005780</td>
+                        <td class="ng-binding">16/05/2018 08:27</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 5x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 23,21</td>
+                        <td class="ng-binding">R$ 93,11</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005779</td>
+                        <td class="ng-binding">15/05/2018 20:33</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">R$ 87,90</td>
+                        <td class="ng-binding">R$ 25,72</td>
+                        <td class="ng-binding">R$ 97,62</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005778</td>
+                        <td class="ng-binding">15/05/2018 16:32</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 23,21</td>
+                        <td class="ng-binding">R$ 93,11</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005777</td>
+                        <td class="ng-binding">15/05/2018 16:28</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 129,70</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 30,08</td>
+                        <td class="ng-binding">R$ 159,78</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005776</td>
+                        <td class="ng-binding">15/05/2018 16:09</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 18,79</td>
+                        <td class="ng-binding">R$ 98,69</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005775</td>
+                        <td class="ng-binding">14/05/2018 23:07</td>
+                        <td class="ng-binding">DESPACHADO</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 79,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 10,46</td>
+                        <td class="ng-binding">R$ 90,26</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005774</td>
+                        <td class="ng-binding">14/05/2018 19:02</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 79,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 23,21</td>
+                        <td class="ng-binding">R$ 103,01</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005773</td>
+                        <td class="ng-binding">14/05/2018 13:33</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 23,21</td>
+                        <td class="ng-binding">R$ 183,01</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005771</td>
+                        <td class="ng-binding">13/05/2018 23:37</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 215,70</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 18,79</td>
+                        <td class="ng-binding">R$ 234,49</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005769</td>
+                        <td class="ng-binding">12/05/2018 21:36</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 1x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 21,00</td>
+                        <td class="ng-binding">R$ 100,90</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005767</td>
+                        <td class="ng-binding">12/05/2018 14:18</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 1x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 21,00</td>
+                        <td class="ng-binding">R$ 90,90</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005766</td>
+                        <td class="ng-binding">12/05/2018 12:56</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 149,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 49,58</td>
+                        <td class="ng-binding">R$ 199,38</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005765</td>
+                        <td class="ng-binding">11/05/2018 22:44</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 177,70</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 38,23</td>
+                        <td class="ng-binding">R$ 215,93</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005763</td>
+                        <td class="ng-binding">11/05/2018 19:22</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 18,79</td>
+                        <td class="ng-binding">R$ 88,69</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005762</td>
+                        <td class="ng-binding">11/05/2018 16:54</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 3x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 26,99</td>
+                        <td class="ng-binding">R$ 106,89</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005761</td>
+                        <td class="ng-binding">11/05/2018 16:13</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 1x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 49,58</td>
+                        <td class="ng-binding">R$ 209,38</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005759</td>
+                        <td class="ng-binding">11/05/2018 15:19</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 34,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 24,47</td>
+                        <td class="ng-binding">R$ 59,37</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005758</td>
+                        <td class="ng-binding">11/05/2018 13:19</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 4x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">5</td>
+                        <td class="ng-binding">R$ 329,50</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 38,23</td>
+                        <td class="ng-binding">R$ 367,73</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005757</td>
+                        <td class="ng-binding">11/05/2018 11:13</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">6</td>
+                        <td class="ng-binding">R$ 449,40</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 38,23</td>
+                        <td class="ng-binding">R$ 487,63</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005752</td>
+                        <td class="ng-binding">11/05/2018 01:53</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 1x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 69,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 18,79</td>
+                        <td class="ng-binding">R$ 88,59</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005751</td>
+                        <td class="ng-binding">10/05/2018 17:40</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 5x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">5</td>
+                        <td class="ng-binding">R$ 415,50</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 20,27</td>
+                        <td class="ng-binding">R$ 435,77</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005750</td>
+                        <td class="ng-binding">10/05/2018 17:04</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 3x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 23,21</td>
+                        <td class="ng-binding">R$ 103,11</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005749</td>
+                        <td class="ng-binding">10/05/2018 15:55</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 2x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 269,60</td>
+                        <td class="ng-binding">R$ 13,48</td>
+                        <td class="ng-binding">R$ 47,38</td>
+                        <td class="ng-binding">R$ 303,50</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005747</td>
+                        <td class="ng-binding">10/05/2018 14:14</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 239,70</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 23,21</td>
+                        <td class="ng-binding">R$ 262,91</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005746</td>
+                        <td class="ng-binding">10/05/2018 11:02</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 21,00</td>
+                        <td class="ng-binding">R$ 180,80</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005745</td>
+                        <td class="ng-binding">09/05/2018 11:40</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 21,00</td>
+                        <td class="ng-binding">R$ 100,90</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005744</td>
+                        <td class="ng-binding">09/05/2018 11:31</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 18,79</td>
+                        <td class="ng-binding">R$ 178,59</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005743</td>
+                        <td class="ng-binding">09/05/2018 11:14</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 2x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 79,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 38,23</td>
+                        <td class="ng-binding">R$ 118,03</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005741</td>
+                        <td class="ng-binding">08/05/2018 20:39</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 1x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 21,00</td>
+                        <td class="ng-binding">R$ 180,80</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005740</td>
+                        <td class="ng-binding">08/05/2018 19:17</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 89,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 30,08</td>
+                        <td class="ng-binding">R$ 119,88</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005738</td>
+                        <td class="ng-binding">08/05/2018 17:26</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 30,08</td>
+                        <td class="ng-binding">R$ 109,98</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005737</td>
+                        <td class="ng-binding">08/05/2018 17:11</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 179,60</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 38,23</td>
+                        <td class="ng-binding">R$ 217,83</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005736</td>
+                        <td class="ng-binding">08/05/2018 17:08</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 2x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 19,11</td>
+                        <td class="ng-binding">R$ 89,01</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005735</td>
+                        <td class="ng-binding">08/05/2018 12:53</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 5x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 23,21</td>
+                        <td class="ng-binding">R$ 103,11</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005734</td>
+                        <td class="ng-binding">07/05/2018 22:02</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 38,23</td>
+                        <td class="ng-binding">R$ 198,03</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005732</td>
+                        <td class="ng-binding">07/05/2018 15:32</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 1x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 21,00</td>
+                        <td class="ng-binding">R$ 90,90</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005731</td>
+                        <td class="ng-binding">07/05/2018 15:00</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 3x</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 139,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 20,82</td>
+                        <td class="ng-binding">R$ 160,62</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005730</td>
+                        <td class="ng-binding">07/05/2018 10:35</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 229,70</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 49,58</td>
+                        <td class="ng-binding">R$ 279,28</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005729</td>
+                        <td class="ng-binding">06/05/2018 20:35</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 2x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 39,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 18,79</td>
+                        <td class="ng-binding">R$ 58,69</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005728</td>
+                        <td class="ng-binding">06/05/2018 13:38</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 25,72</td>
+                        <td class="ng-binding">R$ 185,52</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005727</td>
+                        <td class="ng-binding">06/05/2018 13:10</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 6x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 55,84</td>
+                        <td class="ng-binding">R$ 215,64</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005726</td>
+                        <td class="ng-binding">06/05/2018 11:35</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 1x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">12</td>
+                        <td class="ng-binding">R$ 1.058,80</td>
+                        <td class="ng-binding">R$ 1.011,00</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 47,80</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005725</td>
+                        <td class="ng-binding">05/05/2018 15:33</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Desktop</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 139,80</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 23,21</td>
+                        <td class="ng-binding">R$ 163,01</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005724</td>
+                        <td class="ng-binding">05/05/2018 14:26</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP CC 1x</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 239,70</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 38,23</td>
+                        <td class="ng-binding">R$ 277,93</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">005722</td>
+                        <td class="ng-binding">04/05/2018 20:56</td>
+                        <td class="ng-binding">ENTREGUE</td>
+                        <td class="ng-binding">MOIP Boleto</td>
+                        <td class="ng-binding">Mobile</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">R$ 0,00</td>
+                        <td class="ng-binding">R$ 49,58</td>
+                        <td class="ng-binding">R$ 129,48</td>
+                    </tr><!-- end ngRepeat: item in listagem -->
+                </tbody>
+            </table>
+        

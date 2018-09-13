@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                      <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+                       xmlns:x="urn:schemas-microsoft-com:office:excel"
+                       xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+                       xmlns:html="http://www.w3.org/TR/REC-html40">
+                      <Styles>
+                        <Style ss:ID="s17">
+                          <NumberFormat ss:Format="m/d/yy"/>
+                          <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s18">
+                          <NumberFormat ss:Format="m/d/yy"/>
+                          <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s19">
+                          <NumberFormat ss:Format="m/yy"/>
+                          <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s20">
+                          <NumberFormat ss:Format="m/yy"/>
+                          <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s21">
+                          <NumberFormat ss:Format="m/d/yy h:mm AM/PM"/>
+                          <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s22">
+                          <NumberFormat ss:Format="m/d/yy h:mm AM/PM"/>
+                          <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s23">
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s24">
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s25">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s26">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s27">
+                         <NumberFormat ss:Format="0"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s28">
+                         <NumberFormat ss:Format="0"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s29">
+                         <NumberFormat ss:Format="_(&quot;$&quot;* #,##0.00_);_(&quot;$&quot;* (#,##0.00);_(&quot;$&quot;* &quot;-&quot;??_);_(@_)"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s30">
+                         <NumberFormat ss:Format="_(&quot;$&quot;* #,##0.00_);_(&quot;$&quot;* (#,##0.00);_(&quot;$&quot;* &quot;-&quot;??_);_(@_)"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s31">
+                         <NumberFormat ss:Format="Percent"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s32">
+                         <NumberFormat ss:Format="Percent"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s33">
+                         <NumberFormat ss:Format="YYYY-mm-dd"/>
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                        </Style>
+                        <Style ss:ID="s34">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s35">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s36">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                      <Style ss:ID="s101">
+                                <NumberFormat ss:Format="text"/>
+                                <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                                <Font ss:FontName="Verdana" ss:Bold="1"/>
+                              </Style>
+                              <Style ss:ID="s100">
+                                <NumberFormat ss:Format="text"/>
+                                <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                              </Style></Styles>
+<Worksheet ss:Name="Sheet1">
+<Table>
+<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="12" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="13" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="14" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="15" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="16" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="17" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="18" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="19" ss:AutoFitWidth="0" ss:Width="150"/>
+<Row>
+<Cell ss:StyleID="s34"><Data ss:Type="String">Início dos relatórios</Data></Cell>
+<Cell ss:StyleID="s34"><Data ss:Type="String">Término dos relatórios</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Nome da campanha</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Veiculação</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Resultados</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Indicador de resultados</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Alcance</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Impressões</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Custo por resultados</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Valor gasto (BRL)</Data></Cell>
+<Cell ss:StyleID="s34"><Data ss:Type="String">Término</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Taxa de aumento estimado de lembrança do anúncio</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Frequência</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Curtidas na Página</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Cliques no link únicos</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Cliques no link</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Compras no site</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Visualizações da página de destino</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Custo por visualização da página de destino (BRL)</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-05-04</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-06-04</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Camp_Mensagens</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">not_delivering</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-05-30</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-05-04</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-06-04</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Camp_Alcance</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">not_delivering</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">92109</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">reach</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">92109</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">92109</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">1.139411</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">104.95</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-05-29</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">9</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">11.661111</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-05-04</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-06-04</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Camp_Ads</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">not_delivering</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2732</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">actions:link_click</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">88160</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">137175</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.231827</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">633.35</Data></Cell>
+<Cell ss:StyleID="s35"><Data ss:Type="String">Contínuo</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">1.555978</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">74</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2452</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2732</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">866</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.731351</Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>

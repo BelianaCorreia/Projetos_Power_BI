@@ -1,0 +1,1116 @@
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Cliente</th>
+                        <th><abbr title="Quantidade">Qtde.</abbr></th>
+                        <th>Total</th>
+                        <th>Data</th>
+                        <th>Último Login</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope" style="">
+                        <td class="ng-binding">22289</td>
+                        <td class="ng-binding">Aldeni Araujo Santos</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 234,60</td>
+                        <td class="ng-binding">03/05/2018 - 22:50</td>
+                        <td class="ng-binding">03/05/2018 - 22:43 - 1 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22279</td>
+                        <td class="ng-binding">juliano martins bernardes figueiredo</td>
+                        <td class="ng-binding">6</td>
+                        <td class="ng-binding">R$ 359,40</td>
+                        <td class="ng-binding">03/05/2018 - 16:33</td>
+                        <td class="ng-binding">25/04/2018 - 12:03 - 9 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22272</td>
+                        <td class="ng-binding">carlos andre fernandes</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">03/05/2018 - 13:03</td>
+                        <td class="ng-binding">31/03/2016 - 18:41 - 764 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22260</td>
+                        <td class="ng-binding">Tales Peruchin</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">02/05/2018 - 23:53</td>
+                        <td class="ng-binding">05/11/2015 - 13:40 - 911 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22255</td>
+                        <td class="ng-binding">Roberto dos santos nos</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">02/05/2018 - 19:47</td>
+                        <td class="ng-binding">22/10/2017 - 10:42 - 194 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22253</td>
+                        <td class="ng-binding">Lillian Rachel Sasaki</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">02/05/2018 - 17:45</td>
+                        <td class="ng-binding">02/05/2018 - 17:44 - 2 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22252</td>
+                        <td class="ng-binding">Nerida Pereira Fernandes</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 199,70</td>
+                        <td class="ng-binding">02/05/2018 - 17:34</td>
+                        <td class="ng-binding">20/06/2016 - 15:17 - 683 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22249</td>
+                        <td class="ng-binding">LUCIANO FILHO</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 49,90</td>
+                        <td class="ng-binding">02/05/2018 - 15:08</td>
+                        <td class="ng-binding">02/05/2018 - 15:07 - 2 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22247</td>
+                        <td class="ng-binding">Gabriely Baliot Gavião</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 249,70</td>
+                        <td class="ng-binding">02/05/2018 - 14:20</td>
+                        <td class="ng-binding">30/04/2018 - 00:07 - 4 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22239</td>
+                        <td class="ng-binding">BRUNO MARANGONI</td>
+                        <td class="ng-binding">7</td>
+                        <td class="ng-binding">R$ 359,30</td>
+                        <td class="ng-binding">02/05/2018 - 10:26</td>
+                        <td class="ng-binding">30/04/2016 - 13:34 - 734 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22200</td>
+                        <td class="ng-binding">João kaike foganholo Rodrigues</td>
+                        <td class="ng-binding">5</td>
+                        <td class="ng-binding">R$ 337,50</td>
+                        <td class="ng-binding">30/04/2018 - 22:25</td>
+                        <td class="ng-binding">30/04/2018 - 22:17 - 4 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22189</td>
+                        <td class="ng-binding">Italo Ferrari Pereira</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 269,60</td>
+                        <td class="ng-binding">30/04/2018 - 21:31</td>
+                        <td class="ng-binding">28/03/2017 - 20:41 - 402 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22182</td>
+                        <td class="ng-binding">Lucas Alves de Araújo Nunes</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 87,90</td>
+                        <td class="ng-binding">30/04/2018 - 18:52</td>
+                        <td class="ng-binding">30/04/2018 - 18:47 - 4 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22170</td>
+                        <td class="ng-binding">Bruna Letícia Martins Correa</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">30/04/2018 - 11:41</td>
+                        <td class="ng-binding">04/09/2017 - 10:31 - 242 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22159</td>
+                        <td class="ng-binding">Marília Braga</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 19,90</td>
+                        <td class="ng-binding">29/04/2018 - 22:48</td>
+                        <td class="ng-binding">29/04/2018 - 22:45 - 5 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22147</td>
+                        <td class="ng-binding">everton de brito</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">29/04/2018 - 08:58</td>
+                        <td class="ng-binding">29/04/2018 - 08:51 - 5 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22128</td>
+                        <td class="ng-binding">VLAMIR MARCOS GRESPAN JUNIOR</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 229,70</td>
+                        <td class="ng-binding">28/04/2018 - 12:33</td>
+                        <td class="ng-binding">27/10/2016 - 17:40 - 554 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22125</td>
+                        <td class="ng-binding">Silvio David Santos de Castro</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">28/04/2018 - 11:50</td>
+                        <td class="ng-binding">28/04/2018 - 11:49 - 6 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22124</td>
+                        <td class="ng-binding">LUIZ HENRIQUE DO NASCIMENTO</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">28/04/2018 - 08:32</td>
+                        <td class="ng-binding">27/04/2018 - 11:09 - 7 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22123</td>
+                        <td class="ng-binding">FREDERICO AUGUSTO TELES</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">28/04/2018 - 07:18</td>
+                        <td class="ng-binding">28/04/2018 - 07:18 - 6 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22122</td>
+                        <td class="ng-binding">Alexander Manoel</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 149,80</td>
+                        <td class="ng-binding">28/04/2018 - 03:20</td>
+                        <td class="ng-binding">28/04/2018 - 03:16 - 6 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22120</td>
+                        <td class="ng-binding">José Luiz Guerra</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">27/04/2018 - 23:57</td>
+                        <td class="ng-binding">27/04/2018 - 23:55 - 7 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22114</td>
+                        <td class="ng-binding">thiago souza paulo</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 39,90</td>
+                        <td class="ng-binding">27/04/2018 - 18:10</td>
+                        <td class="ng-binding">27/04/2018 - 18:08 - 7 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22107</td>
+                        <td class="ng-binding">Gabriela Santana</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">26/04/2018 - 19:04</td>
+                        <td class="ng-binding">12/12/2017 - 23:50 - 143 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22097</td>
+                        <td class="ng-binding">Carla Bariviera</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">26/04/2018 - 09:42</td>
+                        <td class="ng-binding">20/11/2017 - 15:02 - 165 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22092</td>
+                        <td class="ng-binding">Giovanni Fontana Turci</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 49,90</td>
+                        <td class="ng-binding">26/04/2018 - 08:40</td>
+                        <td class="ng-binding">14/09/2017 - 23:16 - 232 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22081</td>
+                        <td class="ng-binding">Rodrigo Augusto</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">25/04/2018 - 15:00</td>
+                        <td class="ng-binding">20/04/2018 - 16:42 - 14 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22079</td>
+                        <td class="ng-binding">Érica Alves Moreira</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 87,90</td>
+                        <td class="ng-binding">25/04/2018 - 14:42</td>
+                        <td class="ng-binding">27/03/2018 - 13:21 - 38 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22077</td>
+                        <td class="ng-binding">juliano martins bernardes figueiredo</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 279,60</td>
+                        <td class="ng-binding">25/04/2018 - 12:26</td>
+                        <td class="ng-binding">25/04/2018 - 12:03 - 9 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22064</td>
+                        <td class="ng-binding">LUCIANO LOPES DE SOUZA</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 199,70</td>
+                        <td class="ng-binding">24/04/2018 - 18:16</td>
+                        <td class="ng-binding">25/03/2018 - 19:06 - 40 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22062</td>
+                        <td class="ng-binding">Paulo Henrique de Paiva</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 157,80</td>
+                        <td class="ng-binding">24/04/2018 - 14:55</td>
+                        <td class="ng-binding">02/10/2016 - 08:08 - 579 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22055</td>
+                        <td class="ng-binding">HENRIQUE VILACA BELO</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 199,70</td>
+                        <td class="ng-binding">24/04/2018 - 11:00</td>
+                        <td class="ng-binding">05/09/2016 - 11:59 - 606 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22051</td>
+                        <td class="ng-binding">Jeferson almeida dos santos</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 89,90</td>
+                        <td class="ng-binding">24/04/2018 - 09:21</td>
+                        <td class="ng-binding">11/04/2018 - 10:21 - 23 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22049</td>
+                        <td class="ng-binding">Marcelo Felizardo de Souza</td>
+                        <td class="ng-binding">5</td>
+                        <td class="ng-binding">R$ 339,50</td>
+                        <td class="ng-binding">23/04/2018 - 23:06</td>
+                        <td class="ng-binding">23/04/2018 - 22:37 - 11 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22045</td>
+                        <td class="ng-binding">José Luiz de Lima Filho</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 229,70</td>
+                        <td class="ng-binding">23/04/2018 - 22:49</td>
+                        <td class="ng-binding">23/04/2018 - 22:48 - 11 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22039</td>
+                        <td class="ng-binding">Cristian Mateus Oliveira</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 299,60</td>
+                        <td class="ng-binding">23/04/2018 - 21:51</td>
+                        <td class="ng-binding">09/04/2018 - 20:49 - 25 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22037</td>
+                        <td class="ng-binding">Leonardo Luis Comparim</td>
+                        <td class="ng-binding">5</td>
+                        <td class="ng-binding">R$ 289,50</td>
+                        <td class="ng-binding">23/04/2018 - 21:38</td>
+                        <td class="ng-binding">26/01/2018 - 21:55 - 98 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22033</td>
+                        <td class="ng-binding">Rodrigo Cervi Cutri</td>
+                        <td class="ng-binding">6</td>
+                        <td class="ng-binding">R$ 329,40</td>
+                        <td class="ng-binding">23/04/2018 - 20:20</td>
+                        <td class="ng-binding">21/04/2016 - 09:04 - 743 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22006</td>
+                        <td class="ng-binding">Quezia limoeiro</td>
+                        <td class="ng-binding">5</td>
+                        <td class="ng-binding">R$ 264,50</td>
+                        <td class="ng-binding">22/04/2018 - 21:30</td>
+                        <td class="ng-binding">05/11/2015 - 13:40 - 911 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">22004</td>
+                        <td class="ng-binding">Vinicius modanesi</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">22/04/2018 - 16:43</td>
+                        <td class="ng-binding">05/11/2015 - 13:40 - 911 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21990</td>
+                        <td class="ng-binding">Shigueo Nakata</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 247,70</td>
+                        <td class="ng-binding">21/04/2018 - 13:03</td>
+                        <td class="ng-binding">10/04/2018 - 11:49 - 24 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21984</td>
+                        <td class="ng-binding">girlen </td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">20/04/2018 - 21:33</td>
+                        <td class="ng-binding">26/04/2016 - 10:20 - 738 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21975</td>
+                        <td class="ng-binding">Francieli barbosa de souza Nascimento</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">20/04/2018 - 14:10</td>
+                        <td class="ng-binding">03/04/2018 - 23:04 - 31 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21972</td>
+                        <td class="ng-binding">José Do Carmo Filho</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">20/04/2018 - 11:30</td>
+                        <td class="ng-binding">20/04/2018 - 11:23 - 14 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21964</td>
+                        <td class="ng-binding">Gustavo Moitinho Layber</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">20/04/2018 - 09:23</td>
+                        <td class="ng-binding">19/04/2018 - 14:55 - 15 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21958</td>
+                        <td class="ng-binding">Gabriela Santana</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 219,60</td>
+                        <td class="ng-binding">19/04/2018 - 17:56</td>
+                        <td class="ng-binding">12/12/2017 - 23:50 - 143 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21937</td>
+                        <td class="ng-binding">Catiana da Silva Viebrantz</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 219,70</td>
+                        <td class="ng-binding">19/04/2018 - 11:25</td>
+                        <td class="ng-binding">19/04/2018 - 10:56 - 15 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21930</td>
+                        <td class="ng-binding">vilson cesar jardim cardoso</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 49,90</td>
+                        <td class="ng-binding">19/04/2018 - 10:12</td>
+                        <td class="ng-binding">29/11/2017 - 15:57 - 156 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21925</td>
+                        <td class="ng-binding">Vitor Brunoro</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">19/04/2018 - 09:04</td>
+                        <td class="ng-binding">19/04/2018 - 09:00 - 15 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21893</td>
+                        <td class="ng-binding">Renato César Sanzer Simões</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">18/04/2018 - 15:01</td>
+                        <td class="ng-binding">18/04/2018 - 15:01 - 16 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21890</td>
+                        <td class="ng-binding">Viviane Franco de Souza</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 269,60</td>
+                        <td class="ng-binding">18/04/2018 - 14:04</td>
+                        <td class="ng-binding">04/06/2016 - 09:54 - 699 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21884</td>
+                        <td class="ng-binding">Viviane Franco de Souza</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 269,60</td>
+                        <td class="ng-binding">18/04/2018 - 13:02</td>
+                        <td class="ng-binding">04/06/2016 - 09:54 - 699 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21858</td>
+                        <td class="ng-binding">Priscila Bonugli</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 149,80</td>
+                        <td class="ng-binding">18/04/2018 - 00:41</td>
+                        <td class="ng-binding">12/04/2018 - 20:28 - 22 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21852</td>
+                        <td class="ng-binding">Rosiana Prigol</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 149,80</td>
+                        <td class="ng-binding">17/04/2018 - 20:52</td>
+                        <td class="ng-binding">11/07/2017 - 13:38 - 297 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21846</td>
+                        <td class="ng-binding">Carla Bariviera</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">17/04/2018 - 17:37</td>
+                        <td class="ng-binding">20/11/2017 - 15:02 - 165 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21841</td>
+                        <td class="ng-binding">Viviane Franco de Souza</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 335,60</td>
+                        <td class="ng-binding">17/04/2018 - 15:29</td>
+                        <td class="ng-binding">04/06/2016 - 09:54 - 699 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21827</td>
+                        <td class="ng-binding">Shigueo Nakata</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 87,90</td>
+                        <td class="ng-binding">17/04/2018 - 12:24</td>
+                        <td class="ng-binding">10/04/2018 - 11:49 - 24 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21819</td>
+                        <td class="ng-binding">DANILO PEREIRA ALVES</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 299,60</td>
+                        <td class="ng-binding">17/04/2018 - 09:13</td>
+                        <td class="ng-binding">11/09/2017 - 18:00 - 235 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21807</td>
+                        <td class="ng-binding">DIOGO RENATO VENTURINI</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 157,80</td>
+                        <td class="ng-binding">16/04/2018 - 21:30</td>
+                        <td class="ng-binding">16/04/2018 - 21:27 - 18 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21797</td>
+                        <td class="ng-binding">Ricardo da Silva Calabria</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 149,80</td>
+                        <td class="ng-binding">16/04/2018 - 19:45</td>
+                        <td class="ng-binding">16/04/2018 - 18:19 - 18 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21780</td>
+                        <td class="ng-binding">HERMINIO TEIXEIRA FEITOSA</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 149,80</td>
+                        <td class="ng-binding">16/04/2018 - 18:28</td>
+                        <td class="ng-binding">16/04/2018 - 18:15 - 18 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21770</td>
+                        <td class="ng-binding">Silas de Souza Faria</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 239,70</td>
+                        <td class="ng-binding">16/04/2018 - 18:18</td>
+                        <td class="ng-binding">16/04/2018 - 18:10 - 18 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21768</td>
+                        <td class="ng-binding">Felipe rigoni</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 337,60</td>
+                        <td class="ng-binding">16/04/2018 - 18:17</td>
+                        <td class="ng-binding">16/04/2018 - 18:10 - 18 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21755</td>
+                        <td class="ng-binding">Roberto Oliveira Andrade</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">16/04/2018 - 16:58</td>
+                        <td class="ng-binding">16/04/2018 - 16:53 - 18 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21751</td>
+                        <td class="ng-binding">Carlos Alexandre Bernardes</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">16/04/2018 - 15:40</td>
+                        <td class="ng-binding">21/02/2017 - 23:41 - 437 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21742</td>
+                        <td class="ng-binding">FERNANDO HENRIQUE VETTORAZZO</td>
+                        <td class="ng-binding">6</td>
+                        <td class="ng-binding">R$ 299,40</td>
+                        <td class="ng-binding">15/04/2018 - 21:04</td>
+                        <td class="ng-binding">15/04/2018 - 20:58 - 19 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21738</td>
+                        <td class="ng-binding">José Carlos Salles Junior</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">15/04/2018 - 20:31</td>
+                        <td class="ng-binding">15/04/2018 - 20:27 - 19 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21725</td>
+                        <td class="ng-binding">Sergio Santos Freitas</td>
+                        <td class="ng-binding">9</td>
+                        <td class="ng-binding">R$ 329,10</td>
+                        <td class="ng-binding">15/04/2018 - 19:03</td>
+                        <td class="ng-binding">15/04/2018 - 18:47 - 19 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21716</td>
+                        <td class="ng-binding">Rodrigo Bassani</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">15/04/2018 - 13:48</td>
+                        <td class="ng-binding">15/04/2018 - 13:46 - 19 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21712</td>
+                        <td class="ng-binding">jose carlos de aguiar</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 87,90</td>
+                        <td class="ng-binding">15/04/2018 - 12:38</td>
+                        <td class="ng-binding">15/04/2018 - 12:38 - 19 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21709</td>
+                        <td class="ng-binding">david dos santos</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 299,60</td>
+                        <td class="ng-binding">15/04/2018 - 12:15</td>
+                        <td class="ng-binding">12/01/2016 - 13:47 - 843 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21680</td>
+                        <td class="ng-binding">fernando evaristo vilela</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">15/04/2018 - 10:03</td>
+                        <td class="ng-binding">15/04/2018 - 09:32 - 19 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21686</td>
+                        <td class="ng-binding">Nilo Battistini</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">15/04/2018 - 09:42</td>
+                        <td class="ng-binding">15/04/2018 - 09:41 - 19 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21683</td>
+                        <td class="ng-binding">Paulo Ferreira</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 34,90</td>
+                        <td class="ng-binding">15/04/2018 - 09:34</td>
+                        <td class="ng-binding">15/04/2018 - 09:31 - 19 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21659</td>
+                        <td class="ng-binding">leonardo giacob</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 319,60</td>
+                        <td class="ng-binding">15/04/2018 - 01:57</td>
+                        <td class="ng-binding">28/06/2016 - 16:18 - 675 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21658</td>
+                        <td class="ng-binding">Rodrigo Soares</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">14/04/2018 - 22:25</td>
+                        <td class="ng-binding">14/04/2018 - 22:21 - 20 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21645</td>
+                        <td class="ng-binding">Lucas Alberto Fedele</td>
+                        <td class="ng-binding">12</td>
+                        <td class="ng-binding">R$ 998,80</td>
+                        <td class="ng-binding">14/04/2018 - 18:23</td>
+                        <td class="ng-binding">14/04/2018 - 18:16 - 20 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21633</td>
+                        <td class="ng-binding">João Carlos Neto</td>
+                        <td class="ng-binding">6</td>
+                        <td class="ng-binding">R$ 424,40</td>
+                        <td class="ng-binding">14/04/2018 - 16:29</td>
+                        <td class="ng-binding">29/01/2017 - 11:57 - 460 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21626</td>
+                        <td class="ng-binding">Anderson Fernandes Siqueira</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 187,70</td>
+                        <td class="ng-binding">14/04/2018 - 16:11</td>
+                        <td class="ng-binding">04/08/2016 - 12:08 - 638 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21624</td>
+                        <td class="ng-binding">Silvio Rodrigo Perpétuo Gregui</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">14/04/2018 - 15:35</td>
+                        <td class="ng-binding">09/09/2016 - 08:44 - 602 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21620</td>
+                        <td class="ng-binding">Silvio Rodrigo Perpétuo Gregui</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">14/04/2018 - 14:34</td>
+                        <td class="ng-binding">09/09/2016 - 08:44 - 602 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21596</td>
+                        <td class="ng-binding">Juliana Calegari</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 87,90</td>
+                        <td class="ng-binding">13/04/2018 - 22:33</td>
+                        <td class="ng-binding">04/02/2018 - 20:08 - 89 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21590</td>
+                        <td class="ng-binding">FRANSERGIO DURVAL</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 79,80</td>
+                        <td class="ng-binding">13/04/2018 - 18:43</td>
+                        <td class="ng-binding">17/12/2016 - 15:33 - 503 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21586</td>
+                        <td class="ng-binding">Adauto neto</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 325,60</td>
+                        <td class="ng-binding">13/04/2018 - 16:39</td>
+                        <td class="ng-binding">13/04/2018 - 16:34 - 21 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21581</td>
+                        <td class="ng-binding">ROGERIO DE SIMAS FREAZA</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 229,70</td>
+                        <td class="ng-binding">13/04/2018 - 15:16</td>
+                        <td class="ng-binding">13/04/2018 - 10:41 - 21 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21579</td>
+                        <td class="ng-binding">Aparecido Donizete de Souza</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 169,70</td>
+                        <td class="ng-binding">13/04/2018 - 14:31</td>
+                        <td class="ng-binding">13/04/2018 - 14:21 - 21 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21575</td>
+                        <td class="ng-binding">Carlos Roberto Dias</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 239,70</td>
+                        <td class="ng-binding">13/04/2018 - 14:17</td>
+                        <td class="ng-binding">13/04/2018 - 14:05 - 21 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21573</td>
+                        <td class="ng-binding">Juan Farias</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 34,90</td>
+                        <td class="ng-binding">13/04/2018 - 14:11</td>
+                        <td class="ng-binding">13/04/2018 - 11:29 - 21 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21313</td>
+                        <td class="ng-binding">Edilson Turi</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">13/04/2018 - 14:03</td>
+                        <td class="ng-binding">30/07/2016 - 19:41 - 643 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21540</td>
+                        <td class="ng-binding">ailto sutil</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 119,70</td>
+                        <td class="ng-binding">12/04/2018 - 23:08</td>
+                        <td class="ng-binding">12/04/2018 - 22:33 - 22 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21538</td>
+                        <td class="ng-binding">ailto sutil</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 29,90</td>
+                        <td class="ng-binding">12/04/2018 - 23:00</td>
+                        <td class="ng-binding">12/04/2018 - 22:33 - 22 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21524</td>
+                        <td class="ng-binding">Priscila Bonugli</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 149,80</td>
+                        <td class="ng-binding">12/04/2018 - 20:24</td>
+                        <td class="ng-binding">12/04/2018 - 20:28 - 22 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21521</td>
+                        <td class="ng-binding">Veronica kurtz</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 317,60</td>
+                        <td class="ng-binding">12/04/2018 - 20:20</td>
+                        <td class="ng-binding">12/04/2018 - 20:03 - 22 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21493</td>
+                        <td class="ng-binding">Saulo Andrade</td>
+                        <td class="ng-binding">6</td>
+                        <td class="ng-binding">R$ 469,40</td>
+                        <td class="ng-binding">12/04/2018 - 20:01</td>
+                        <td class="ng-binding">12/04/2018 - 20:11 - 22 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21472</td>
+                        <td class="ng-binding">Cleidi Dilkin</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">12/04/2018 - 16:04</td>
+                        <td class="ng-binding">22/09/2017 - 15:20 - 224 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21467</td>
+                        <td class="ng-binding">William Wendler</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">12/04/2018 - 11:13</td>
+                        <td class="ng-binding">04/04/2017 - 08:25 - 395 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21449</td>
+                        <td class="ng-binding">Flavio Martiniano de Oliveira</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 167,80</td>
+                        <td class="ng-binding">11/04/2018 - 18:53</td>
+                        <td class="ng-binding">05/05/2017 - 19:32 - 364 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21435</td>
+                        <td class="ng-binding">Cássio Rosa de Souza</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 89,80</td>
+                        <td class="ng-binding">11/04/2018 - 13:31</td>
+                        <td class="ng-binding">23/03/2017 - 08:24 - 407 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21429</td>
+                        <td class="ng-binding">Cristian Oliveira</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">11/04/2018 - 11:09</td>
+                        <td class="ng-binding">26/09/2016 - 08:32 - 585 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21421</td>
+                        <td class="ng-binding">Felipe Andrian Techeira</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">10/04/2018 - 23:20</td>
+                        <td class="ng-binding">10/04/2018 - 23:19 - 24 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21416</td>
+                        <td class="ng-binding">EDVALDO CHRISTIANO DA SILVA</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 119,80</td>
+                        <td class="ng-binding">10/04/2018 - 22:37</td>
+                        <td class="ng-binding">10/04/2018 - 22:36 - 24 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21415</td>
+                        <td class="ng-binding">Sergio de Oliveira ramos filho</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 89,80</td>
+                        <td class="ng-binding">10/04/2018 - 22:05</td>
+                        <td class="ng-binding">14/08/2017 - 11:52 - 263 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21410</td>
+                        <td class="ng-binding">Jonatas Vidal da Silva</td>
+                        <td class="ng-binding">6</td>
+                        <td class="ng-binding">R$ 435,40</td>
+                        <td class="ng-binding">10/04/2018 - 21:46</td>
+                        <td class="ng-binding">12/12/2016 - 23:03 - 508 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21405</td>
+                        <td class="ng-binding">Viviane Franco de Souza</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 269,60</td>
+                        <td class="ng-binding">10/04/2018 - 20:23</td>
+                        <td class="ng-binding">04/06/2016 - 09:54 - 699 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21401</td>
+                        <td class="ng-binding">david souza</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">10/04/2018 - 17:49</td>
+                        <td class="ng-binding">10/04/2018 - 17:48 - 24 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21398</td>
+                        <td class="ng-binding">Vanilda de Melo Perrucci</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 279,60</td>
+                        <td class="ng-binding">10/04/2018 - 16:13</td>
+                        <td class="ng-binding">04/04/2016 - 20:41 - 760 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21396</td>
+                        <td class="ng-binding">WANDERSON MENDES MESQUITA</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">10/04/2018 - 15:08</td>
+                        <td class="ng-binding">10/04/2018 - 15:08 - 24 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21395</td>
+                        <td class="ng-binding">cristiane sorbello</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 119,80</td>
+                        <td class="ng-binding">10/04/2018 - 15:07</td>
+                        <td class="ng-binding">12/08/2016 - 13:23 - 630 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21355</td>
+                        <td class="ng-binding">Rafael Alves de Azevedo</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">09/04/2018 - 20:53</td>
+                        <td class="ng-binding">09/04/2018 - 20:43 - 25 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21353</td>
+                        <td class="ng-binding">Fernando Carlos coelho</td>
+                        <td class="ng-binding">6</td>
+                        <td class="ng-binding">R$ 369,40</td>
+                        <td class="ng-binding">09/04/2018 - 18:58</td>
+                        <td class="ng-binding">13/03/2017 - 20:56 - 417 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21344</td>
+                        <td class="ng-binding">Teff Greco</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 79,80</td>
+                        <td class="ng-binding">09/04/2018 - 15:05</td>
+                        <td class="ng-binding">09/04/2018 - 09:32 - 25 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21341</td>
+                        <td class="ng-binding">Jeferson Ramos</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">09/04/2018 - 14:55</td>
+                        <td class="ng-binding">16/02/2016 - 15:17 - 808 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21334</td>
+                        <td class="ng-binding">Alessandro Gomes Figueiredo</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 79,80</td>
+                        <td class="ng-binding">09/04/2018 - 08:53</td>
+                        <td class="ng-binding">29/08/2017 - 19:03 - 248 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21331</td>
+                        <td class="ng-binding">Dhiogo Henrique Oliveira</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 109,80</td>
+                        <td class="ng-binding">09/04/2018 - 08:44</td>
+                        <td class="ng-binding">09/04/2018 - 08:38 - 25 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21330</td>
+                        <td class="ng-binding">Stephanie Diogo Hienes</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">09/04/2018 - 08:20</td>
+                        <td class="ng-binding">07/02/2017 - 12:56 - 451 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21324</td>
+                        <td class="ng-binding">Rafael Vaz</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 137,80</td>
+                        <td class="ng-binding">08/04/2018 - 23:14</td>
+                        <td class="ng-binding">10/05/2017 - 17:08 - 359 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21321</td>
+                        <td class="ng-binding">MURILO APARECIDO DE MELO</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 279,60</td>
+                        <td class="ng-binding">08/04/2018 - 21:50</td>
+                        <td class="ng-binding">13/08/2017 - 21:43 - 264 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21320</td>
+                        <td class="ng-binding">Márcio Leandro Antonieto</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">08/04/2018 - 20:26</td>
+                        <td class="ng-binding">14/11/2015 - 14:53 - 902 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21298</td>
+                        <td class="ng-binding">rodrigo silva do nascimento</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">07/04/2018 - 15:39</td>
+                        <td class="ng-binding">13/04/2018 - 12:20 - 21 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21291</td>
+                        <td class="ng-binding">MARCO AURELIO GUARIDO</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">07/04/2018 - 13:23</td>
+                        <td class="ng-binding">07/04/2016 - 13:36 - 757 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21281</td>
+                        <td class="ng-binding">GUILHERME SILVA CARVALHO</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 157,80</td>
+                        <td class="ng-binding">07/04/2018 - 08:33</td>
+                        <td class="ng-binding">06/04/2018 - 16:37 - 28 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21280</td>
+                        <td class="ng-binding">Gisele Silva Ramos Gomes</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 229,60</td>
+                        <td class="ng-binding">07/04/2018 - 08:30</td>
+                        <td class="ng-binding">02/06/2017 - 14:15 - 336 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21274</td>
+                        <td class="ng-binding">Doublet Cédric</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">07/04/2018 - 05:19</td>
+                        <td class="ng-binding">01/08/2017 - 18:16 - 276 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21271</td>
+                        <td class="ng-binding">Priscila Perrotta Carvalho Crespo</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 229,70</td>
+                        <td class="ng-binding">07/04/2018 - 00:07</td>
+                        <td class="ng-binding">02/01/2017 - 14:23 - 487 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21027</td>
+                        <td class="ng-binding">Denis Santos Barbosa</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 39,90</td>
+                        <td class="ng-binding">06/04/2018 - 20:41</td>
+                        <td class="ng-binding">04/11/2017 - 19:34 - 181 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21258</td>
+                        <td class="ng-binding">ronaldo freitas de souza jr</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 139,80</td>
+                        <td class="ng-binding">06/04/2018 - 12:47</td>
+                        <td class="ng-binding">06/04/2018 - 12:45 - 28 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21257</td>
+                        <td class="ng-binding">José Roberto Deppa</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 167,80</td>
+                        <td class="ng-binding">06/04/2018 - 11:36</td>
+                        <td class="ng-binding">21/02/2018 - 20:40 - 72 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21251</td>
+                        <td class="ng-binding">Marcos Leandro Betin</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 219,60</td>
+                        <td class="ng-binding">06/04/2018 - 10:04</td>
+                        <td class="ng-binding">06/04/2018 - 10:00 - 28 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21239</td>
+                        <td class="ng-binding">Gilvan Luiz Fidler</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">05/04/2018 - 21:32</td>
+                        <td class="ng-binding">04/04/2018 - 00:40 - 30 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21225</td>
+                        <td class="ng-binding">edson pereira dos santos</td>
+                        <td class="ng-binding">11</td>
+                        <td class="ng-binding">R$ 1.008,90</td>
+                        <td class="ng-binding">05/04/2018 - 16:54</td>
+                        <td class="ng-binding">05/04/2018 - 16:43 - 29 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21216</td>
+                        <td class="ng-binding">Felipe Ramm</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 89,80</td>
+                        <td class="ng-binding">05/04/2018 - 15:25</td>
+                        <td class="ng-binding">06/02/2017 - 15:07 - 452 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21205</td>
+                        <td class="ng-binding">Alexandre Alcantara Pinto</td>
+                        <td class="ng-binding">10</td>
+                        <td class="ng-binding">R$ 439,00</td>
+                        <td class="ng-binding">05/04/2018 - 10:22</td>
+                        <td class="ng-binding">18/04/2016 - 16:20 - 746 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21201</td>
+                        <td class="ng-binding">Eduardo Antonio de Oliveira Junior</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 139,80</td>
+                        <td class="ng-binding">05/04/2018 - 09:56</td>
+                        <td class="ng-binding">05/04/2018 - 09:48 - 29 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21194</td>
+                        <td class="ng-binding">Joaquim Neves de OLiveira Neto</td>
+                        <td class="ng-binding">17</td>
+                        <td class="ng-binding">R$ 1.028,30</td>
+                        <td class="ng-binding">05/04/2018 - 09:39</td>
+                        <td class="ng-binding">09/03/2018 - 14:32 - 56 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21180</td>
+                        <td class="ng-binding">Rodrygo Costa Novo</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">05/04/2018 - 09:17</td>
+                        <td class="ng-binding">05/04/2018 - 09:15 - 29 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21177</td>
+                        <td class="ng-binding">Carolina Zimmer</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">05/04/2018 - 08:09</td>
+                        <td class="ng-binding">05/04/2018 - 07:45 - 29 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21170</td>
+                        <td class="ng-binding">Francieli barbosa de souza Nascimento</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 149,80</td>
+                        <td class="ng-binding">04/04/2018 - 23:08</td>
+                        <td class="ng-binding">03/04/2018 - 23:04 - 31 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21169</td>
+                        <td class="ng-binding">Jonatas Vidal da Silva</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 139,80</td>
+                        <td class="ng-binding">04/04/2018 - 23:07</td>
+                        <td class="ng-binding">12/12/2016 - 23:03 - 508 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21161</td>
+                        <td class="ng-binding">Carlos Mota</td>
+                        <td class="ng-binding">8</td>
+                        <td class="ng-binding">R$ 504,20</td>
+                        <td class="ng-binding">04/04/2018 - 22:00</td>
+                        <td class="ng-binding">31/08/2016 - 15:02 - 611 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21156</td>
+                        <td class="ng-binding">Sergio de Oliveira ramos filho</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 59,80</td>
+                        <td class="ng-binding">04/04/2018 - 18:24</td>
+                        <td class="ng-binding">14/08/2017 - 11:52 - 263 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21141</td>
+                        <td class="ng-binding">Joaquim Neves de OLiveira Neto</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 49,80</td>
+                        <td class="ng-binding">04/04/2018 - 12:10</td>
+                        <td class="ng-binding">04/04/2018 - 12:09 - 30 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21138</td>
+                        <td class="ng-binding">Talles Andrey Garcia</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 89,70</td>
+                        <td class="ng-binding">04/04/2018 - 11:17</td>
+                        <td class="ng-binding">02/05/2017 - 10:12 - 367 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21102</td>
+                        <td class="ng-binding">Felipe Gonçalves Matodo</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 167,80</td>
+                        <td class="ng-binding">04/04/2018 - 00:48</td>
+                        <td class="ng-binding">04/04/2018 - 00:46 - 30 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21091</td>
+                        <td class="ng-binding">Fabiano Oliveira da Cunha</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 114,80</td>
+                        <td class="ng-binding">03/04/2018 - 23:01</td>
+                        <td class="ng-binding">10/03/2016 - 18:18 - 785 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21085</td>
+                        <td class="ng-binding">Carla Bariviera</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 79,90</td>
+                        <td class="ng-binding">03/04/2018 - 21:06</td>
+                        <td class="ng-binding">20/11/2017 - 15:02 - 165 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21079</td>
+                        <td class="ng-binding">Paulo Rogério Vitor</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 199,70</td>
+                        <td class="ng-binding">03/04/2018 - 19:58</td>
+                        <td class="ng-binding">17/09/2017 - 15:31 - 229 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21076</td>
+                        <td class="ng-binding">Taiano Weber</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 149,80</td>
+                        <td class="ng-binding">03/04/2018 - 19:55</td>
+                        <td class="ng-binding">12/08/2017 - 19:25 - 265 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21068</td>
+                        <td class="ng-binding">LUCIANO LOPES DE SOUZA</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">03/04/2018 - 17:24</td>
+                        <td class="ng-binding">25/03/2018 - 19:06 - 40 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21066</td>
+                        <td class="ng-binding">LUCIANO LOPES DE SOUZA</td>
+                        <td class="ng-binding">2</td>
+                        <td class="ng-binding">R$ 159,80</td>
+                        <td class="ng-binding">03/04/2018 - 16:42</td>
+                        <td class="ng-binding">25/03/2018 - 19:06 - 40 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21057</td>
+                        <td class="ng-binding">Leandro Marques Polidoro</td>
+                        <td class="ng-binding">5</td>
+                        <td class="ng-binding">R$ 379,50</td>
+                        <td class="ng-binding">03/04/2018 - 15:53</td>
+                        <td class="ng-binding">17/07/2017 - 07:00 - 291 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21050</td>
+                        <td class="ng-binding">Júlio Cesar pastri</td>
+                        <td class="ng-binding">6</td>
+                        <td class="ng-binding">R$ 379,40</td>
+                        <td class="ng-binding">03/04/2018 - 14:23</td>
+                        <td class="ng-binding">11/12/2015 - 10:27 - 875 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21033</td>
+                        <td class="ng-binding">Ronnie guimaraes paim</td>
+                        <td class="ng-binding">6</td>
+                        <td class="ng-binding">R$ 459,40</td>
+                        <td class="ng-binding">03/04/2018 - 13:23</td>
+                        <td class="ng-binding">07/03/2016 - 19:18 - 788 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21026</td>
+                        <td class="ng-binding">Jadson de Souza pinto</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">03/04/2018 - 12:42</td>
+                        <td class="ng-binding">13/02/2016 - 11:46 - 811 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21025</td>
+                        <td class="ng-binding">Sandro Ricardo Faria</td>
+                        <td class="ng-binding">1</td>
+                        <td class="ng-binding">R$ 69,90</td>
+                        <td class="ng-binding">03/04/2018 - 12:32</td>
+                        <td class="ng-binding">05/02/2017 - 20:49 - 453 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21021</td>
+                        <td class="ng-binding">Pedro Eduardo Haack</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 89,70</td>
+                        <td class="ng-binding">03/04/2018 - 12:28</td>
+                        <td class="ng-binding">06/04/2017 - 14:21 - 393 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21019</td>
+                        <td class="ng-binding">José Roberto Deppa</td>
+                        <td class="ng-binding">3</td>
+                        <td class="ng-binding">R$ 207,70</td>
+                        <td class="ng-binding">03/04/2018 - 12:07</td>
+                        <td class="ng-binding">21/02/2018 - 20:40 - 72 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td class="ng-binding">21003</td>
+                        <td class="ng-binding">Luana Zanon</td>
+                        <td class="ng-binding">4</td>
+                        <td class="ng-binding">R$ 264,60</td>
+                        <td class="ng-binding">03/04/2018 - 08:27</td>
+                        <td class="ng-binding">16/11/2016 - 13:46 - 534 dias</td>
+                    </tr><!-- end ngRepeat: item in listagem -->
+                </tbody>
+            </table>
+        

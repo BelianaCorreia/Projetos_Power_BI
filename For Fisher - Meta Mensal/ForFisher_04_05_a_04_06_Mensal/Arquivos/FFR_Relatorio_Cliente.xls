@@ -1,0 +1,1163 @@
+
+            <table>
+                <thead>
+                    <tr>
+                        <th at-attribute="ID">ID</th>
+                        <th at-attribute="NOME">Cliente</th>
+                        <th at-attribute="NRO_PEDIDOS">Pedidos</th>
+                        <th at-attribute="TICKET_MEDIO">Ticket Médio</th>
+                        <th at-attribute="TOTAL">Valor Total</th>
+                        <th at-attribute="DATA_ADD">Cliente Desde</th>
+                        <th at-attribute="ULTIMA_COMPRA">Última Compra</th>
+                        <th at-attribute="DIAS">Recorrência</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005000704</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">fabiano lenz</strong>
+                            <br><small class="ng-binding">041.734.699-93</small>
+                            <br>fabianolenz@yahoo.com.br
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">2</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 126,96</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 253,92</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">12/11/2015</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">12/11/2015</td>
+                        <td at-attribute="DIAS" class="ng-binding">468</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005001535</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Alexandre Alcantara Pinto</strong>
+                            <br><small class="ng-binding">775.893.005-00</small>
+                            <br>xandeapinto@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">5</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 216,58</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 1.082,88</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">16/03/2016</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">16/03/2016</td>
+                        <td at-attribute="DIAS" class="ng-binding">162</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005001747</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">MARCO AURELIO GUARIDO</strong>
+                            <br><small class="ng-binding">042.117.778-07</small>
+                            <br>marco_guarido@terra.com.br
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">9</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 93,27</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 839,43</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">06/04/2016</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">06/04/2016</td>
+                        <td at-attribute="DIAS" class="ng-binding">88</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005002079</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">João Batista Ribeiro Neto</strong>
+                            <br><small class="ng-binding">338.055.648-30</small>
+                            <br>joaobatista@kraussrp.com.br
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">3</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 64,42</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 193,27</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">22/05/2016</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">22/05/2016</td>
+                        <td at-attribute="DIAS" class="ng-binding">248</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005004216</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">elezandro maicon barroso</strong>
+                            <br><small class="ng-binding">039.651.689-08</small>
+                            <br>elezandromaiconbarroso@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">2</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 179,32</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 358,63</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">05/06/2017</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">05/06/2017</td>
+                        <td at-attribute="DIAS" class="ng-binding">183</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005004235</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">THIAGO GUERIERO DE MORAIS</strong>
+                            <br><small class="ng-binding">337.973.968-56</small>
+                            <br>thiagogdm@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">2</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 142,27</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 284,54</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">11/06/2017</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">11/06/2017</td>
+                        <td at-attribute="DIAS" class="ng-binding">180</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005004348</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Vander Costa Pioneer</strong>
+                            <br><small class="ng-binding">173.093.938-48</small>
+                            <br>vander.cos@uol.com.br
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">2</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 70,92</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 141,83</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">09/07/2017</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">09/07/2017</td>
+                        <td at-attribute="DIAS" class="ng-binding">166</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005004350</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Júlio Hissanaga Junior</strong>
+                            <br><small class="ng-binding">954.064.769-04</small>
+                            <br>julio.hissanaga@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">2</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 158,88</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 317,75</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">09/07/2017</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">09/07/2017</td>
+                        <td at-attribute="DIAS" class="ng-binding">166</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005004869</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Tércio Peressin</strong>
+                            <br><small class="ng-binding">286.897.348-56</small>
+                            <br>tperessin@yahoo.com.br
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">2</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 93,11</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 186,22</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">24/10/2017</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">24/10/2017</td>
+                        <td at-attribute="DIAS" class="ng-binding">112</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005133</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Jéssica Vieira</strong>
+                            <br><small class="ng-binding">044.435.115-98</small>
+                            <br>dona.joanitta@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 186,59</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 186,59</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">02/01/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">21/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">15</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005290</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">LUCIANO LOPES DE SOUZA</strong>
+                            <br><small class="ng-binding">008.706.267-44</small>
+                            <br>lucianolopes36@yahoo.com.br
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">4</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 173,37</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 693,47</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">25/03/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">26/03/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">18</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005335</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">ALESSANDRA ALVES</strong>
+                            <br><small class="ng-binding">374.723.248-50</small>
+                            <br>alessandraalves21deabril@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">2</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 78,11</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 156,22</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">06/04/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">06/04/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">30</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005372</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Aline Simioni Andreatta bossardi</strong>
+                            <br><small class="ng-binding">025.783.059-60</small>
+                            <br>alinebossardi@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 435,77</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 435,77</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">11/04/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">10/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">26</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005436</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Felipe rigoni</strong>
+                            <br><small class="ng-binding">068.937.009-11</small>
+                            <br>felipe@rigonilogistica.com.br
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 336,59</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 336,59</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">16/04/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">18/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">18</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005480</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Amanda ScobareMartins</strong>
+                            <br><small class="ng-binding">428.252.408-18</small>
+                            <br>amandascobaremartins@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">2</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 192,91</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 385,82</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">20/04/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">20/04/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">23</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005490</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Carlos Oliver Manzano</strong>
+                            <br><small class="ng-binding">104.203.218-10</small>
+                            <br>carlos.oliver.m@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 317,08</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 317,08</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">23/04/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">20/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">16</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005504</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Mario Marcos de Toledo</strong>
+                            <br><small class="ng-binding">050.854.718-06</small>
+                            <br>mariom.toledo@uol.com.br
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 178,59</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 178,59</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">27/04/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">09/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">27</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005508</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">FREDERICO AUGUSTO TELES</strong>
+                            <br><small class="ng-binding">716.572.829-53</small>
+                            <br>fredericoteles@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">2</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 95,90</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 191,80</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">28/04/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">28/04/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">19</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005515</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">everton de brito</strong>
+                            <br><small class="ng-binding">341.077.498-00</small>
+                            <br>evertonararas@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">2</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 103,41</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 206,82</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">29/04/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">29/04/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">19</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005526</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Jair Colorado Finger</strong>
+                            <br><small class="ng-binding">385.786.620-91</small>
+                            <br>jafinger@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 90,26</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 90,26</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">01/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">14/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">22</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005527</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Cassio Muller Gomes da Silva</strong>
+                            <br><small class="ng-binding">008.181.801-70</small>
+                            <br>cassiomuller@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 279,28</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 279,28</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">01/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">07/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">29</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005528</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Janaína Nadal</strong>
+                            <br><small class="ng-binding">069.311.809-16</small>
+                            <br>janainanadal904@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 267,93</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 267,93</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">02/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">18/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">18</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005532</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">EDILAINE A RIBEIRO</strong>
+                            <br><small class="ng-binding">332.656.058-33</small>
+                            <br>edilainear@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 129,48</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 129,48</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">03/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">04/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">32</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005541</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Juliano Ricardo Nunes Dinnebier</strong>
+                            <br><small class="ng-binding">812.407.240-04</small>
+                            <br>jubadinnebier_rs@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 156,13</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 156,13</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">04/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">29/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">7</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005542</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Julia Brunelli</strong>
+                            <br><small class="ng-binding">224.043.448-11</small>
+                            <br>julia-brunelli@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 277,93</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 277,93</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">05/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">05/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">31</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005543</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">alexandre de freitas caetano</strong>
+                            <br><small class="ng-binding">184.522.968-19</small>
+                            <br>alexandregrilosound@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 163,01</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 163,01</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">05/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">05/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">31</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005546</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">TILIO MOURA VIEIRA</strong>
+                            <br><small class="ng-binding">977.617.886-34</small>
+                            <br>tilio.vieira@bol.com.br
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 215,64</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 215,64</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">06/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">06/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">30</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005547</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Alessandro Leopoldino Soares</strong>
+                            <br><small class="ng-binding">004.199.467-13</small>
+                            <br>als.leopold@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 185,52</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 185,52</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">06/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">06/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">30</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005549</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Jansen Moussa</strong>
+                            <br><small class="ng-binding">946.728.301-87</small>
+                            <br>jansenmoussa81@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 160,62</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 160,62</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">07/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">07/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">29</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005550</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Luiz Fernando Bauer</strong>
+                            <br><small class="ng-binding">073.517.269-22</small>
+                            <br>luizbauer11@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 90,90</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 90,90</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">07/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">07/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">29</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005552</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Emerson mercatelli neto</strong>
+                            <br><small class="ng-binding">330.376.528-61</small>
+                            <br>emercatelli@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 198,03</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 198,03</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">07/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">07/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">29</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005554</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Rubens Alves Hermão</strong>
+                            <br><small class="ng-binding">081.509.948-74</small>
+                            <br>rubens@saaesaocarlos.com.br
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 103,11</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 103,11</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">08/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">08/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">28</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005555</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">cecilia rabelo ramos rosa</strong>
+                            <br><small class="ng-binding">096.624.596-26</small>
+                            <br>ceciliarosa3108@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 109,98</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 109,98</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">08/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">08/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">28</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005556</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">OTAVIO AUGUSTO FRANK LISSAK</strong>
+                            <br><small class="ng-binding">019.444.340-03</small>
+                            <br>otavio.lissak@bol.com.br
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 89,01</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 89,01</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">08/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">08/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">28</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005558</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Abel Deliberal</strong>
+                            <br><small class="ng-binding">035.688.151-25</small>
+                            <br>abel.deliberal@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 119,88</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 119,88</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">08/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">08/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">28</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005559</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Jose Rogerio dos Santos</strong>
+                            <br><small class="ng-binding">009.818.059-22</small>
+                            <br>rogerio632@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 180,80</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 180,80</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">08/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">08/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">28</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005560</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Renata Roza De Santana</strong>
+                            <br><small class="ng-binding">366.454.338-67</small>
+                            <br>renataroza.ards@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 118,03</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 118,03</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">09/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">09/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">27</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005561</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Cleiton Barbosa da Silva</strong>
+                            <br><small class="ng-binding">558.985.051-72</small>
+                            <br>cleitons.cg@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">2</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 295,29</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 590,58</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">09/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">10/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">13</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005563</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">eduardo murad hatum</strong>
+                            <br><small class="ng-binding">050.304.339-70</small>
+                            <br>duduhatum@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 180,80</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 180,80</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">10/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">10/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">26</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005565</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">bruno gustavo bella</strong>
+                            <br><small class="ng-binding">361.835.458-48</small>
+                            <br>brunogubella.bb@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 262,91</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 262,91</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">10/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">10/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">26</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005566</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Anderle Cristina Machado</strong>
+                            <br><small class="ng-binding">362.512.988-47</small>
+                            <br>anderlemachado@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 103,11</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 103,11</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">10/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">10/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">26</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005567</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Jaqueline Alencar Santos</strong>
+                            <br><small class="ng-binding">459.032.438-51</small>
+                            <br>jaqueline43a@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 88,59</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 88,59</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">10/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">11/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">25</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005569</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Thiago Augusto Zardo</strong>
+                            <br><small class="ng-binding">051.159.329-54</small>
+                            <br>thizardo@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 487,63</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 487,63</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">11/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">11/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">25</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005570</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Natalia Pires</strong>
+                            <br><small class="ng-binding">386.670.138-11</small>
+                            <br>napirescr@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 367,73</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 367,73</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">11/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">11/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">25</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005571</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Lucas Nunes Fernandes</strong>
+                            <br><small class="ng-binding">118.481.406-65</small>
+                            <br>lucasss20111@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 59,37</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 59,37</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">11/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">11/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">25</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005572</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Fernando Henrique Del Col</strong>
+                            <br><small class="ng-binding">410.514.338-78</small>
+                            <br>fernandodelcol@icloud.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 209,38</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 209,38</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">11/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">11/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">25</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005573</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Gustavo Comim dos Santos</strong>
+                            <br><small class="ng-binding">021.605.459-10</small>
+                            <br>gustavocomim@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 106,89</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 106,89</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">11/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">11/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">25</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005574</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">José Garcia Felix</strong>
+                            <br><small class="ng-binding">024.970.978-36</small>
+                            <br>jogarfeli@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 88,69</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 88,69</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">11/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">11/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">25</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005576</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Marcele de Souza Botinha Armelim</strong>
+                            <br><small class="ng-binding">418.760.288-74</small>
+                            <br>marcele_sb@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 199,38</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 199,38</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">12/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">12/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">24</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005577</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Valdir Favero</strong>
+                            <br><small class="ng-binding">081.752.789-35</small>
+                            <br>wesley_ar_favero@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 90,90</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 90,90</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">12/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">12/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">24</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005581</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Amarildo buginski</strong>
+                            <br><small class="ng-binding">587.029.629-34</small>
+                            <br>amarildo_bgki@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 100,90</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 100,90</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">12/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">12/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">24</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005586</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Thiago antonio anastacio medeiros santos</strong>
+                            <br><small class="ng-binding">367.709.808-43</small>
+                            <br>mectiosalgados@yahoo.com.br
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 234,49</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 234,49</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">13/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">13/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">23</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005587</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Marco Polo Alvarenga</strong>
+                            <br><small class="ng-binding">049.322.196-44</small>
+                            <br>mpoloalvarenga@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 159,78</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 159,78</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">14/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">15/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">21</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005589</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">cleusa Alves dos Santos hilario</strong>
+                            <br><small class="ng-binding">033.956.168-86</small>
+                            <br>vanessamarceli@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 103,01</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 103,01</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">14/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">14/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">22</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005593</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">PRISCILA DE MORAES RODRIGUES MARTINS</strong>
+                            <br><small class="ng-binding">313.222.038-81</small>
+                            <br>prismoraesrodrigues@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 199,38</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 199,38</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">16/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">16/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">20</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005594</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Pedro Dib</strong>
+                            <br><small class="ng-binding">014.331.631-10</small>
+                            <br>pedro_dib@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 207,18</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 207,18</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">16/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">16/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">20</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005596</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">KAMILA FERNANDA RAVIZZONI DE BRITO</strong>
+                            <br><small class="ng-binding">011.463.950-78</small>
+                            <br>kamilaravizzoni@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 115,26</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 115,26</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">17/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">17/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">19</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005599</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">MARCIO CEMIM DIOGENES</strong>
+                            <br><small class="ng-binding">981.042.687-91</small>
+                            <br>mcdiogenes@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 86,82</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 86,82</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">17/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">17/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">19</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005601</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Edson Pagliari</strong>
+                            <br><small class="ng-binding">055.424.258-36</small>
+                            <br>epagliari@ymail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 216,49</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 216,49</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">17/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">17/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">19</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005602</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Angelo Rocha Moss</strong>
+                            <br><small class="ng-binding">898.104.496-15</small>
+                            <br>angelomoss@bol.com.br
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 184,27</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 184,27</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">17/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">17/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">19</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005603</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">flavia roberta danezzi</strong>
+                            <br><small class="ng-binding">281.660.098-03</small>
+                            <br>flaviadanezzi@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 105,62</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 105,62</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">17/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">17/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">19</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005607</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Elton Diego Zimmermann</strong>
+                            <br><small class="ng-binding">065.294.699-23</small>
+                            <br>elton@elektra.net.br
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 230,70</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 230,70</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">19/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">19/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">17</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005608</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">José Luis Amaro</strong>
+                            <br><small class="ng-binding">192.668.698-56</small>
+                            <br>jlamaro234@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 160,16</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 160,16</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">20/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">20/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">16</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005610</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Thais Lenne Costa Ferreira</strong>
+                            <br><small class="ng-binding">056.532.341-50</small>
+                            <br>lennethais03@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 100,62</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 100,62</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">20/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">20/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">16</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005612</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Rogério Takanori Hinohara</strong>
+                            <br><small class="ng-binding">710.184.090-68</small>
+                            <br>takahinohara@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 96,23</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 96,23</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">21/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">21/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">15</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005613</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Alexandra Ferreira dos Santos</strong>
+                            <br><small class="ng-binding">293.760.238-03</small>
+                            <br>aleflorita2010@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 88,69</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 88,69</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">21/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">21/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">15</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005614</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Messias Gomes da Rocha Neto</strong>
+                            <br><small class="ng-binding">299.895.208-95</small>
+                            <br>messias.rocha.neto@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 7,20</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 7,20</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">21/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">21/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">15</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005616</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Nicolas serafin</strong>
+                            <br><small class="ng-binding">034.692.466-96</small>
+                            <br>nicolasserafin@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 334,07</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 334,07</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">21/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">21/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">15</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005621</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Mariana Mendes Fontanella</strong>
+                            <br><small class="ng-binding">091.179.719-00</small>
+                            <br>marianafontanella@yahoo.com.br
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 90,90</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 90,90</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">23/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">23/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">13</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005622</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Andre Alves Moreira Junior</strong>
+                            <br><small class="ng-binding">352.056.118-20</small>
+                            <br>andreamoreirajr@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 88,69</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 88,69</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">23/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">23/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">13</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005623</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Miguel Angelo Dutra Viestel</strong>
+                            <br><small class="ng-binding">473.198.527-72</small>
+                            <br>mviestel20@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 170,62</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 170,62</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">23/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">23/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">13</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005625</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Adelmo Pinheiro padilha</strong>
+                            <br><small class="ng-binding">020.962.381-02</small>
+                            <br>adelmopinheiro9@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 0,00</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 0,00</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">25/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">25/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">11</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005628</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Lenir Vieira</strong>
+                            <br><small class="ng-binding">368.031.968-10</small>
+                            <br>nireu@icloud.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 98,69</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 98,69</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">26/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">26/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">10</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005629</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Fernanda Carine Scheidt</strong>
+                            <br><small class="ng-binding">032.950.189-52</small>
+                            <br>fernandascheidt@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 96,82</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 96,82</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">26/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">26/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">10</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005633</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Guilherme ciarrocchi ferreira</strong>
+                            <br><small class="ng-binding">282.008.148-74</small>
+                            <br>guilherme.ferreira@sicoobseguradora.com.br
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 343,97</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 343,97</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">27/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">27/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">9</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005634</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Mario Andre Ferreira dos Santos</strong>
+                            <br><small class="ng-binding">821.313.503-25</small>
+                            <br>marioafsantos@outlook.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 188,03</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 188,03</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">27/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">27/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">9</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005636</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Flávio Henrique bigulin</strong>
+                            <br><small class="ng-binding">049.983.468-22</small>
+                            <br>f.h.bigulin@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 103,11</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 103,11</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">27/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">27/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">9</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005637</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Roger Toshi Yatsugafu</strong>
+                            <br><small class="ng-binding">059.780.699-30</small>
+                            <br>netoshi@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 60,90</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 60,90</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">28/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">28/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">8</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005638</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Lidisson Ivo Rodrigues</strong>
+                            <br><small class="ng-binding">109.863.586-81</small>
+                            <br>lidissonivo@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 219,78</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 219,78</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">28/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">28/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">8</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005642</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Fernando Fálico da Costa</strong>
+                            <br><small class="ng-binding">215.368.398-09</small>
+                            <br>fernandofalico@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 63,11</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 63,11</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">30/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">30/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">6</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005643</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Tsuneta Ariga</strong>
+                            <br><small class="ng-binding">110.456.848-99</small>
+                            <br>tsarigacoop@outlook.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 93,11</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 93,11</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">30/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">30/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">6</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005644</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">LEONARDO LOPA CARDOZO</strong>
+                            <br><small class="ng-binding">031.132.840-74</small>
+                            <br>leonardolopa@outlook.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 80,36</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 80,36</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">30/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">30/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">6</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005646</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Gabriela Vianna Geraldi</strong>
+                            <br><small class="ng-binding">347.870.738-26</small>
+                            <br>gabriela.g.vianna@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 93,11</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 93,11</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">31/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">31/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">5</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005647</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">wagner gonçalves de lima</strong>
+                            <br><small class="ng-binding">075.056.969-71</small>
+                            <br>wagner5555@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 176,79</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 176,79</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">31/05/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">31/05/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">5</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005653</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Geraldo Goncalves Neto</strong>
+                            <br><small class="ng-binding">925.662.351-04</small>
+                            <br>gnetogeraldo@gmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 294,45</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 294,45</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">02/06/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">02/06/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">3</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005654</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Veridiane Aparecida Ricce</strong>
+                            <br><small class="ng-binding">407.594.068-39</small>
+                            <br>veridiane_ricce@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 119,48</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 119,48</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">02/06/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">02/06/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">3</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005658</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">PAULO SÉRGIO BALBINO</strong>
+                            <br><small class="ng-binding">330.233.038-35</small>
+                            <br>jhuerapha@hotmail.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 310,81</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 310,81</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">03/06/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">03/06/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">2</td>
+                    </tr><!-- end ngRepeat: item in listagem --><tr ng-repeat="item in listagem" class="ng-scope">
+                        <td at-sortable="" at-attribute="ID" class="ng-binding">005005659</td>
+                        <td at-sortable="" at-attribute="NOME" class="ng-binding">
+                            <strong class="ng-binding">Julian Carpen</strong>
+                            <br><small class="ng-binding">029.235.659-59</small>
+                            <br>jadvocacia@yahoo.com
+                        </td>
+                        <td at-attribute="NRO_PEDIDOS" class="ng-binding">1</td>
+                        <td at-attribute="TICKET_MEDIO" class="ng-binding">R$ 170,80</td>
+                        <td at-attribute="TOTAL" class="ng-binding">R$ 170,80</td>
+                        <td at-attribute="DATA_ADD" class="ng-binding">03/06/2018</td>
+                        <td at-attribute="ULTIMA_COMPRA" class="ng-binding">03/06/2018</td>
+                        <td at-attribute="DIAS" class="ng-binding">2</td>
+                    </tr><!-- end ngRepeat: item in listagem -->
+                </tbody>
+            </table>
+        
